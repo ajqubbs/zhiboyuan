@@ -1,3 +1,6 @@
+电视公告,#genre#
+
+
 CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=undefined&id=cctv1&token=HHRsf39J
 CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=undefined&id=cctv1a&token=HHRsf39J
 CCTV-2,https://iptv.45678888.xyz:10005/zb/xyz.php?script=undefined&id=cctv2&token=HHRsf39J
