@@ -22,3 +22,6 @@
 {"id":"17","title":"凤凰秀[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84cf7bc920.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iKFEg3jrnluj","image1":"","image2":"","daxiao":"35.1MB","create_time":"1 时以前 "}
 
 {"id":"18","title":"应用助手","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84cf6f34de.png","desc1":"工具必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iSlJ43j9jxva","image1":"","image2":"","daxiao":"5.1MB","create_time":"1 时以前 "}
+
+
+{"id":"18","title":"应用口令查询","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84cf6f34de.png","desc1":"工具必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ivawf3j9jybg","image1":"","image2":"","daxiao":"5.1MB","create_time":"1 时以前 "}
