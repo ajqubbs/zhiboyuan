@@ -51,7 +51,7 @@ CCTV-17高清,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 吉林卫视高清,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高清,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
-港🇭🇰台rh,#genre#
+🇨🇳港奥台rh,#genre#
 中天新闻Hktv,http://rihou.cc:555/tv/[Hv]中天新聞
 寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻Hktv,http://rihou.cc:555/tv/[Hk]东森新闻
@@ -86,7 +86,7 @@ pₒₚc电影Hktv,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 HUB娱家Hktv,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
 
-🐂🍺港澳台fy,#genre#
+🇨🇳港奥台fy,#genre#
 澳视澳门FYtv,http://iptv.4666888.xyz/iptv2A.php?id=41
 广东珠江FYtv,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
@@ -138,7 +138,8 @@ CCTV-16FYtv,http://iptv.4666888.xyz/iptv2A.php?id=32
 广东卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=18
 山西卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=16
 青海卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=17
-4k测试🍟,#genre#
+
+4k🎈测试🍟,#genre#
 北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
 浙江卫视频4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
