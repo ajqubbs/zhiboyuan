@@ -6,7 +6,7 @@
 
 {"id":"4","title":"i台奥直播[港奥台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a856267a.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iJrLp3jm67fi","image1":"","image2":"","daxiao":"18.8MB","create_time":"1 时以前 "}
 
-{"id":"5","title":"i千问直播[腰疼]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a871f2f5.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iJrLp3jm67fi","image1":"","image2":"","daxiao":"18.8MB","create_time":"1 时以前 "}
+{"id":"5","title":"i千问直播[腰疼]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a871f2f5.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/i5dls3jskegb","image1":"","image2":"","daxiao":"18.8MB","create_time":"1 时以前 "}
 
 
 {"id":"6","title":"新凡人直播[腰疼]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a840b8a1.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iD9Yj3jj4ekf","image1":"","image2":"","daxiao":"18.8MB","create_time":"1 时以前 "}
