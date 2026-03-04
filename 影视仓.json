@@ -15,7 +15,37 @@
             "playerType": 2
         },
 
-
+{
+            "key": "韩国3",
+            "name": "韩国3",
+            "type": 3,
+"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ajqubbs/wdrjk-a-v/main/Legxbpq.jar",
+            "api": "csp_xbpq",
+            "style": {
+                "ratio": 1.7
+            },
+            "ext": {
+                "作者": "魔法少女",
+                "分类url": "https://sexkbj.com/category/{cateId}/page/{catePg}/?filter={by};;z",
+                "分类": "韩国BJ$korean-bj#优质节目$premium#自媒体$afreecatv#韩国业余$korean-amateur",
+                "主页url": "https://sexkbj.com/",
+                "数组": "data-post-id&&</article>",
+                "标题": "title=\"&&\"",
+                "副标题": "duration\">*>*>&&</span",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "链接前缀": "https://sexkbj.com",
+                "搜索url": "https://sexkbj.com/page/{pg}/?s={wd}",
+                "搜索数组": "article&&</article>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索链接前缀": "https://sexkbj.com",
+                "嗅探词": ".m3u8",
+                "排序": "最新视频&最多观看&长视频&随机视频",
+                "排序值": "latest&most-viewed&longest&random"
+            }
+        },
 
 {
             "key": "快播影院网",
