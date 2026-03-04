@@ -56,3 +56,7 @@
 
 {"id":"255","title":"酷影TV_2.9.7","logo":"http://liuqiang.daliutv.top/upload/images/20251124/17639468646923b170522a1.png","baoming":"com.gy.tv","desc1":"影视应用","desc":"更新时间：2025年11月24日09:15:09 ","url":"https://pan.gfwl.top/f/oK8LTP/%E9%85%B7+TV.apk","image1":"http://liuqiang.daliutv.top/upload/images/20251124/17639468906923b18af31a6.png","image2":"http://liuqiang.daliutv.top/upload/images/20251124/17639468946923b18e316b1.png","daxiao":"50.28 MB","create_time":"3 个月以前 "}
 
+{"id":"253","title":"追光视界_20240201","logo":"http://liuqiang.daliutv.top/upload/images/20251110/1762743460691154a4c2dee.png","baoming":"com.gitv.tv.gvp","desc1":"影视应用","desc":"更新时间：2025年11月10日11:02:09","url":"https://pan.gfwl.top/f/5rrPFQ/%E8%BF%BD%E5%85%89%E8%A7%86%E7%95%8C%20v20240201%20%E5%85%8D%E7%99%BB%E9%99%86%E5%85%8DVIP.apk","image1":"http://liuqiang.daliutv.top/upload/images/20251110/1762743477691154b523bcb.png","image2":"","daxiao":"35.15 MB","create_time":"4 个月以前 "}
+
+{"id":"252","title":"畅享TV_1.1.7","logo":"http://liuqiang.daliutv.top/upload/images/20251108/1762614968690f5eb838a6b.png","baoming":"org.fungo.fungobox","desc1":"直播应用","desc":"更新时间：2025年11月8日23:17:04 网速慢的不要下载本软件，破解版需要网速支持，会员到期2099年，支持部分7天回放，无广告。不要更新，第一次进入选择“忽略该版本”","url":"https://pan.gfwl.top/f/0DAOIR/%E7%95%85%E4%BA%ABTV.apk","image1":"http://liuqiang.daliutv.top/upload/images/20251108/1762615445690f60952ce69.png","image2":"http://liuqiang.daliutv.top/upload/images/20251108/1762615448690f6098788e4.png","daxiao":"20.75 MB","create_time":"4 个月以前 "}
+
