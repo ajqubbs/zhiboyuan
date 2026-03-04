@@ -159,6 +159,16 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 鳳凰資訊,http://222.212.84.190:54123/udp/239.93.1.4:2191
 鳳凰資訊,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 鳳凰資訊,http://php.jdshipin.com:8880/iptv.php?id=fhzx
+
+翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
+翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv
+翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://m.osvs.asia:8000/bysid/1
+翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR‧IPV4『線路19』
 中天新闻Hktv,http://rihou.cc:555/tv/[Hv]中天新聞
 寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻Hktv,http://rihou.cc:555/tv/[Hk]东森新闻
