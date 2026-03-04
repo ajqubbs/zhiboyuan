@@ -1332,7 +1332,7 @@ movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-
 香蕉盲盒（第一百一十三期）,https://fcxqxf.hhphxz.com/20241125/XFYiGCLT/index.m3u8
 香蕉盲盒（第一百一十四期）,https://fcxqxf.hhphxz.com/20241209/fivLlggW/index.m3u8
 
-香蕉新干线,#genre#
+香蕉新线_58,#genre#
 香蕉新干线-第十九期-即将上映,https://fcxqxf.hhphxz.com/20250119/wE41UsOc/index.m3u8
 香蕉新干线-第十八期-即将上映,https://fcxqxf.hhphxz.com/20250102/bq7sG0D9/index.m3u8
 香蕉新干线-第十七期-即将上映,https://fcxqxf.hhphxz.com/20241223/bBBup0nf/index.m3u8
