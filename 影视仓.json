@@ -4,7 +4,7 @@
             "key": "仓py",
             "name": "仓py",
             "type": 3,
-            "api": "./黄区.py",
+            "api": "/黄区.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
