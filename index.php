@@ -4,4 +4,4 @@
 
 {"id":"3","title":"i优势在我直播","logo":"","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/id6yG3jm65xe","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"18.2MB","create_time":"1 时以前 "} 
 
-{"id":"4","title":"i台奥直播","logo":"","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iJrLp3jm67fi","image1":"","image2":"","daxiao":"51.2MB","create_time":"1 时以前 "}
+{"id":"4","title":"i台奥直播","logo":"","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iJrLp3jm67fi","image1":"","image2":"","daxiao":"18.8MB","create_time":"1 时以前 "}
