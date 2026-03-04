@@ -2,7 +2,8 @@
 千问公告,#genre#
 千问特供,https://vdse.bdstatic.com/h265/bdefa30a1a4a2cac457396cdd650771a4b.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=11822966294007888173&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.2&vid=13029587759396665319&mvt=-1&did=a8bea46bcde700ece9c4a15b8888b7a9&cr=1&h265_s=1&sl=332&sle=1&split=695588
 获取密码赞助10米即可,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-伊朗新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+伊朗🇮🇷新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 
 
