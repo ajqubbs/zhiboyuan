@@ -232,6 +232,8 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 澳门体育1080p,https://cdn6.101.qzz.io/163189/amty
 星空卫视576P,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
+
+
 电影频道,#genre#
 澳门莲花1080p,https://cdn6.101.qzz.io/163189/amlh
 Now星影台(粤)576p,https://t.freetv.fun/live/nowxing-ying.m3u8
