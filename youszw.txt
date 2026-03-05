@@ -7,6 +7,7 @@
 TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
 TVB翡翠台,http://r.jdshipin.com/62WM7
 
+
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
