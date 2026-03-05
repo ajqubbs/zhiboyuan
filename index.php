@@ -2,7 +2,7 @@
 
 {"id":"2","title":"新台奥直播[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a1dac6e5.png,"desc1":"影视必备","desc":"（看简介图片操作免登陆使用）","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/i30C63jrnn8j","image1":"https://www.haitangw.cc/wp-content/uploads/2025/06/640-38.png","image2":"https://www.haitangw.cc/wp-content/uploads/2025/06/640-39.png","daxiao":"15.2MB","create_time":"260304 "}  
 
-{"id":"3","title":"电影天堂","logo":"http://pic1.win4000.com/m00/24/0f/e4e3a7c576bd564c3067c9f6ef153288.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ibYGN3judedi","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"33.2MB","create_time":"260304 "}
+{"id":"3","title":"电影天堂","logo":"http://pic1.win4000.com/m00/24/0f/e4e3a7c576bd564c3067c9f6ef153288.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ibYGN3judedi","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"33.2MB","create_time":"260305 "}
 
 {"id":"3","title":"i优势在我[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a8349fa3.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/id6yG3jm65xe","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"18.2MB","create_time":"260305 "} 
 
