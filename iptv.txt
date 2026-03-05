@@ -40,6 +40,7 @@ CCTV17,http://123.175.210.230:9003/hls/18/index.m3u8?key=txiptv
 
 
 TVB 無線新聞 News H265 (HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/63353431/3.ts
+
 TVB 無線新聞台 4K (HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/12345678/8.ts
 TVB 無線新聞直播台 4K (HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/12345678/9.ts
 TVB 無線新聞台 CH083 (HK),http://iptvpro.pw:35451/live/加QQ群995225115福利/12345678/13.ts
