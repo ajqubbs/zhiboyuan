@@ -40,6 +40,11 @@
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 深圳都市1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IY2Nqo&tk=inWducl7RAaR
 深圳电视剧720p,http://36.36.200.196:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+
+中天新聞1080p(梯子),https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+中天新聞720p,https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
+中天新聞720p,https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.m3u8
 翡翠台1080p,http://74.91.26.218:82/live/jade.m3u8
 翡翠台1080p,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台1080p,http://bxtv.3a.ink/api.php?id=fct
