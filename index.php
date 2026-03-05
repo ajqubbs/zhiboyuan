@@ -4,7 +4,7 @@
 
 {"id":"3","title":"电影天堂","logo":"http://pic1.win4000.com/m00/24/0f/e4e3a7c576bd564c3067c9f6ef153288.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ibYGN3judedi","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"33.2MB","create_time":"260305 "}
 
-{"id":"3","title":"i优势在我[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a8349fa3.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/id6yG3jm65xe","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"18.2MB","create_time":"260305 "} 
+{"id":"3","title":"i优势在我[港台]","logo":"https://free-img.400040.xyz/4/2026/03/05/69a95f0e54ba6.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/id6yG3jm65xe","image1":"https://pic.qtsyw.com/up/2025-6/17497838347537245.jpg","image2":"https://pic.wk2.com/up/2025-6/202561317933764860.png!400_400","daxiao":"18.2MB","create_time":"260305 "} 
 
 {"id":"4","title":"i台奥直播[港奥台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a856267a.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iJrLp3jm67fi","image1":"","image2":"","daxiao":"18.8MB","create_time":"260304 "}
 
