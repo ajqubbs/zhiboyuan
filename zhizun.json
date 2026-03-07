@@ -128,9 +128,9 @@
       "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
     },
     {
-      "name": "解析3",
+      "name": "龙腾四海",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://api.jxapi.cc/api/?key=466fb6f21cb027e0f53b7b19baf82c83&url=",
       "ext": {
         "flag": [
           "qq",
