@@ -37,6 +37,7 @@ CCTV俄語,http://k.061899.xyz/k.php?id=cgtnr
 CETV中國教育1,http://k.061899.xyz/k.php?id=cetv1
 CETV中國教育2,http://k.061899.xyz/k.php?id=cetv2
 CETV中國教育4,http://k.061899.xyz/k.php?id=cetv4
+
 衛視頻道,#genre#
 湖南衛視,http://107.150.60.122/live/hnwshd.m3u8
 東方衛視,http://107.150.60.122/live/dfwshd.m3u8
