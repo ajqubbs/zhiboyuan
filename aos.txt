@@ -8,6 +8,8 @@
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
 
 黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
+
+
 央视✨频道,#genre#
 CCTV4k超高清,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8k超高清,http://107.150.60.122/live/cctv8k.m3u8
