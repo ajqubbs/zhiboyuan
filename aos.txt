@@ -1,6 +1,6 @@
 公告🍅频道,#genre#
 
-凡人会员群专属,https://vd4.bdstatic.com/mda-mf4bu6gfbtwbfqq5/720p/h264/1622881458967201202/mda-mf4bu6gfbtwbfqq5.mp4
+凡人会员群专属,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cg5ghijc77ud4ehka23g&ratio=720p&line=0
 
 
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
@@ -25,6 +25,7 @@ CCTV15音乐,http://59.110.126.191:3000/673168223
 CCTV17农业农村,http://59.110.126.191:3000/673168256
 CCTV4欧洲,http://59.110.126.191:3000/608807419
 CCTV4美洲,http://59.110.126.191:3000/608807416
+
 央视✨频道,#genre#
 CCTV4k超高清,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8k超高清,http://107.150.60.122/live/cctv8k.m3u8
