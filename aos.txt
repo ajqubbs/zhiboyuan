@@ -564,27 +564,18 @@ RTHK32,http://212.135.213.196/smt3.2.1.php?id=rhk32_twn
 松彩🚖频道_18,#genre#
 
 
-香蕉臺,http://bl.qxshares.com/live/f0f625843753359925763ec9a80b0831.flv
 
-驚艷臺,http://bl.qxshares.com/live/7b45c1fa78610c3cc862319167430226.flv
-
-松視1臺,http://bl.qxshares.com/live/c02fdfae42609713830b905d13ac2156.flv
-
-松視2臺,http://bl.qxshares.com/live/8e911a1b5f99ea9879568afef181ef9d.flv
-
-松視3臺,http://bl.qxshares.com/live/fdccb65c9de9fd55bb36612c1b2cb8c8.flv
-
-彩虹e臺,http://bl.qxshares.com/live/e0cb0f29602a833d1481bbadb21bfc8d.flv
-
-彩虹k臺,http://bl.qxshares.com/live/57ba8f0a0a58c082b667500bc3c77a91.flv
-
-彩虹電影臺,http://bl.qxshares.com/live/2f4e849dff08b5ae1f17d9b2561db5d6.flv
-
-極限電影臺,http://bl.qxshares.com/live/15af052f8f52e7ea91a6e9d63c0fc877.flv
-
-潘朵啦玩美,http://bl.qxshares.com/live/28384a3cfff36d8b79474db9aa878348.flv
-
-Happy,http://bl.qxshares.com/live/17de296fcbbe2264d152cae94392fb31.flv
+.香蕉臺,http://bl.qxshares.com/live/7ec0804487997843e10332203a9607b4.flv
+.驚艷臺,http://bl.qxshares.com/live/5009e073caa4138ced736423c6f41780.flv
+.松视1台,http://bl.qxshares.com/live/1d87a3e3b1fda2a3de8eb40c472b8ab5.flv
+.松視2臺,http://bl.qxshares.com/live/19d7ce9064ee137d00102b76d5fe67dd.flv
+.松視3臺,http://bl.qxshares.com/live/d950dda55f6b264c214893acc979a67e.flv
+.彩虹e臺,http://bl.qxshares.com/live/1f2b16b93c1735bcd83f6eb71676505d.flv
+.彩虹k臺,http://bl.qxshares.com/live/d636b6c17c10527ec8e33ef2bd4efafb.flv
+.彩虹電影臺,http://bl.qxshares.com/live/ad6ad20daceba52ea5068076f0ff4c62.flv
+.極限電影臺,http://bl.qxshares.com/live/d1d7b5d8537d4ef11c16ca698993cdad.flv
+.潘朵啦玩美,http://bl.qxshares.com/live/494994d4eb9d7d2e0c0b1d3fec83e515.flv
+.Happy,http://bl.qxshares.com/live/19aad3d4008f1404708327de74a08493.flv
 
 
 
