@@ -567,7 +567,7 @@ RTHK32,http://212.135.213.196/smt3.2.1.php?id=rhk32_twn
 
 
 
-香蕉臺,http://bl.qxshares.com/live/7bb1e16aa5a1bc4e84e1d4f08a114664.flv
+.香蕉臺,http://bl.qxshares.com/live/7bb1e16aa5a1bc4e84e1d4f08a114664.flv
 驚艷臺,http://bl.qxshares.com/live/1d99d5cee83722424d561fbd5c01f0e0.flv
 松视1台,http://bl.qxshares.com/live/95bea703b18e00c8d74f02206b4f2c2c.flv
 松視2臺,http://bl.qxshares.com/live/276e31db8047d9288fa890669b6e7ca4.flv
