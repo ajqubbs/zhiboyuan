@@ -566,17 +566,19 @@ RTHK32,http://212.135.213.196/smt3.2.1.php?id=rhk32_twn
 
 
 
-香蕉臺,http://bl.qxshares.com/live/7c9560ddfc2a74eb23e86e5229bc7a27.flv
-驚艷臺,http://bl.qxshares.com/live/8221f93e300a2c4f9dd246ad43e315dd.flv
-松视1台,http://bl.qxshares.com/live/c666834f0bacdbe48209d9c32a67cd90.flv
-松視2臺,http://bl.qxshares.com/live/f7c1b9ccff330ffefc845f1640b3a15a.flv
-松視3臺,http://bl.qxshares.com/live/69cd0d2368b4dad76168db24b7eceb3a.flv
-彩虹e臺,http://bl.qxshares.com/live/eeb3a6ba60ab465ff589cb1db7d37cfc.flv
-彩虹k臺,http://bl.qxshares.com/live/a9a24b7e985110666cf35a1f28aed533.flv
+
+香蕉臺,http://bl.qxshares.com/live/7bb1e16aa5a1bc4e84e1d4f08a114664.flv
+驚艷臺,http://bl.qxshares.com/live/1d99d5cee83722424d561fbd5c01f0e0.flv
+松视1台,http://bl.qxshares.com/live/95bea703b18e00c8d74f02206b4f2c2c.flv
+松視2臺,http://bl.qxshares.com/live/276e31db8047d9288fa890669b6e7ca4.flv
+松視3臺,http://bl.qxshares.com/live/11617ea76c88cd36029f2c71aece7c8e.flv
+彩虹e臺,http://bl.qxshares.com/live/8d068dfce547f2567365cf1cf1092805.flv
+彩虹k臺,http://bl.qxshares.com/live/b121f689d596dcb7ab6783a5cecfc914.flv
 彩虹電影臺,http://bl.qxshares.com/live/5246c686f6d8edef67f4c6806e11990d.flv
-極限電影臺,http://bl.qxshares.com/live/40b768ead4ac3ba0b404c74b02b4f06d.flv
-潘朵啦玩美,http://bl.qxshares.com/live/bede38fbe185705ac4941a12c51c7f8d.flv
-Happy,http://bl.qxshares.com/live/81e79f3e42c3ebc60e235b1866ef40d4.flv
+極限電影臺,http://bl.qxshares.com/live/17e2886f0da6896b5e1d664aee7e19a5.flv
+潘朵啦玩美,http://bl.qxshares.com/live/2614eb7c0bb42ab531037775d3dceda0.flv
+Happy,http://bl.qxshares.com/live/bd15c3eece14be4bae6de8599d68b83a.flv
+
 
 
 日本🚖频道_18,#genre#
