@@ -567,18 +567,9 @@ RTHK32,http://212.135.213.196/smt3.2.1.php?id=rhk32_twn
 
 
 
-香蕉臺,http://bl.qxshares.com/live/09f267613f12eca569a6458f5558b552.flv
-驚艷臺,http://bl.qxshares.com/live/1865676b70ecb03d2325ac4576b717ac.flv
-松视1台,http://bl.qxshares.com/live/7d6819f9edc26b6f0b7f44a80e904a24.flv
-松視2臺,http://bl.qxshares.com/live/f7af5124f7a568648ab968010d521d45.flv
-松視3臺,http://bl.qxshares.com/live/132e5ee0c2dfdab6bc531b67d42f048b.flv
-彩虹e臺,http://bl.qxshares.com/live/b8f9e54dd7a424063e9ed7e40a4d4625.flv
-彩虹k臺,http://bl.qxshares.com/live/dbcfbf185fcdebe54dd006bcedb2e4ea.flv
-彩虹電影臺,http://bl.qxshares.com/live/3a48fde5fd9db4caa22b182e7486020b.flv
-極限電影臺,http://bl.qxshares.com/live/505fc38d9d3b91789fe4cc9aa4056f60.flv
-潘朵啦玩美,http://bl.qxshares.com/live/068f3dba8fbf4dc1ca66ab8a2a7e1985.flv
-happy,http://bl.qxshares.com/live/a283fa089fcb011bb486f3dadf339052.flv
-
+松视1台,http://bl.qxshares.com/live/7d130b7570e827ea01a7853ca97c623d.flv
+松視2臺,http://bl.qxshares.com/live/fdb974df300223af6bacc7edc329b177.flv
+松視3臺,http://bl.qxshares.com/live/875634eb258ecbb178fad4842eefebd5.flv
 
 
 
