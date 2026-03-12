@@ -195,6 +195,22 @@ CCTV15,sop://sdk/XgTV.php?id=2026_bfbad48a9b
 CCTV17,sop://sdk/XgTV.php?id=2026_9db41bdbba
 CCTV16,sop://sdk/XgTV.php?id=2026_1bb13ad1e8
 
+
+東森購物二台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=45&token=a2bb7a3f57a83a91
+民視綜藝台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=46&token=a2bb7a3f57a83a91
+豬哥亮歌廳秀,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=47&token=a2bb7a3f57a83a91
+靖天育樂台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=48&token=a2bb7a3f57a83a91
+KLT-靖天國際台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=49&token=a2bb7a3f57a83a91
+NiceTV靖天歡樂台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=50&token=a2bb7a3f57a83a91
+靖天資訊台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=51&token=a2bb7a3f57a83a91
+TVBS歡樂台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=52&token=a2bb7a3f57a83a91
+韓國娛樂台KMTV,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=53&token=a2bb7a3f57a83a91
+ROCKEntertainment,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=54&token=a2bb7a3f57a83a91
+Lifetime娛樂頻道,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=55&token=a2bb7a3f57a83a91
+電影原聲台CMusic,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=56&token=a2bb7a3f57a83a91
+TRACEUrban,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=57&token=a2bb7a3f57a83a91
+MTVLiveHD音樂頻道,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=58&token=a2bb7a3f57a83a91
+
 港台🍊频道,#genre#
 
 寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
