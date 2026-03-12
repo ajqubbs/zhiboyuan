@@ -195,7 +195,7 @@ CCTV15,sop://sdk/XgTV.php?id=2026_bfbad48a9b
 CCTV17,sop://sdk/XgTV.php?id=2026_9db41bdbba
 CCTV16,sop://sdk/XgTV.php?id=2026_1bb13ad1e8
 
-
+a台奥频道,#genre#
 東森購物二台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=45&token=a2bb7a3f57a83a91
 民視綜藝台,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=46&token=a2bb7a3f57a83a91
 豬哥亮歌廳秀,http://as.288856.xyz/ashd/proxy/cibn/aiw.php?id=47&token=a2bb7a3f57a83a91
