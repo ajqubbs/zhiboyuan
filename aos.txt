@@ -171,6 +171,920 @@ CETV4,http://ahmaslt.sohu.blog:8000/hls/22/index.m3u8
 海南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 海南卫视,http://182.150.115.26:5003/custom14.m3u8
 
+aos港台频道,#genre#
+
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=1
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=2
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=3
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=4
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=5
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=6
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=7
+翡翠台,http://as.288856.xyz/vip.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=8
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=1
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=2
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=3
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=4
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=5
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=6
+TVB Plus,http://as.288856.xyz/vip.php?id=TVB+Plus&tid=7
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=1
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=2
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=3
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=4
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=5
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=6
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=7
+无线新闻,http://as.288856.xyz/vip.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&tid=8
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=1
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=2
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=3
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=4
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=5
+明珠台,http://as.288856.xyz/vip.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&tid=6
+TVB生活台,http://as.288856.xyz/vip.php?id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0&tid=1
+TVB生活台,http://as.288856.xyz/vip.php?id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0&tid=2
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=1
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=2
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=3
+TVB星河国语,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E5%9B%BD%E8%AF%AD&tid=1
+TVB星河国语,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E5%9B%BD%E8%AF%AD&tid=2
+凤凰资讯台,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=1
+凤凰资讯台,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=2
+凤凰资讯台,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=3
+凤凰资讯台,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=4
+凤凰资讯台,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=5
+凤凰中文,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&tid=1
+凤凰中文,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&tid=2
+凤凰中文,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&tid=3
+凤凰中文,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&tid=4
+凤凰香港,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&tid=1
+凤凰香港,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&tid=2
+凤凰香港,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&tid=3
+凤凰香港,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&tid=4
+TVB1,http://as.288856.xyz/vip.php?id=TVB1&tid=1
+TVB1,http://as.288856.xyz/vip.php?id=TVB1&tid=2
+TVB Pearl Drama 明珠剧集台,http://as.288856.xyz/vip.php?id=TVB+Pearl+Drama+%E6%98%8E%E7%8F%A0%E5%89%A7%E9%9B%86%E5%8F%B0&tid=1
+TVBJ1,http://as.288856.xyz/vip.php?id=TVBJ1&tid=1
+TVBJ1,http://as.288856.xyz/vip.php?id=TVBJ1&tid=2
+TVBJ1,http://as.288856.xyz/vip.php?id=TVBJ1&tid=3
+TVB J2,http://as.288856.xyz/vip.php?id=TVB+J2&tid=1
+TVB Drama 翡翠剧集台,http://as.288856.xyz/vip.php?id=TVB+Drama+%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&tid=1
+TVB Drama 翡翠剧集台,http://as.288856.xyz/vip.php?id=TVB+Drama+%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&tid=2
+TVB Drama 翡翠剧集台,http://as.288856.xyz/vip.php?id=TVB+Drama+%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&tid=3
+TVB E 翡翠娛樂台,http://as.288856.xyz/vip.php?id=TVB+E+%E7%BF%A1%E7%BF%A0%E5%A8%9B%E6%A8%82%E5%8F%B0&tid=1
+TVB E 翡翠娛樂台,http://as.288856.xyz/vip.php?id=TVB+E+%E7%BF%A1%E7%BF%A0%E5%A8%9B%E6%A8%82%E5%8F%B0&tid=2
+TVB E 翡翠娛樂台,http://as.288856.xyz/vip.php?id=TVB+E+%E7%BF%A1%E7%BF%A0%E5%A8%9B%E6%A8%82%E5%8F%B0&tid=3
+POP C,http://as.288856.xyz/vip.php?id=POP+C&tid=1
+POP C,http://as.288856.xyz/vip.php?id=POP+C&tid=2
+POP C,http://as.288856.xyz/vip.php?id=POP+C&tid=3
+POP C,http://as.288856.xyz/vip.php?id=POP+C&tid=4
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=1
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=2
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=3
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=4
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=5
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=6
+Now爆谷台,http://as.288856.xyz/vip.php?id=Now%E7%88%86%E8%B0%B7%E5%8F%B0&tid=7
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=1
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=2
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=3
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=4
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=5
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=6
+Now星影台,http://as.288856.xyz/vip.php?id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0&tid=7
+Now华剧台,http://as.288856.xyz/vip.php?id=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&tid=1
+Now华剧台,http://as.288856.xyz/vip.php?id=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&tid=2
+Now华剧台,http://as.288856.xyz/vip.php?id=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&tid=3
+Now华剧台,http://as.288856.xyz/vip.php?id=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&tid=4
+Now剧集台,http://as.288856.xyz/vip.php?id=Now%E5%89%A7%E9%9B%86%E5%8F%B0&tid=1
+Now剧集台,http://as.288856.xyz/vip.php?id=Now%E5%89%A7%E9%9B%86%E5%8F%B0&tid=2
+Now剧集台,http://as.288856.xyz/vip.php?id=Now%E5%89%A7%E9%9B%86%E5%8F%B0&tid=3
+Now剧集台,http://as.288856.xyz/vip.php?id=Now%E5%89%A7%E9%9B%86%E5%8F%B0&tid=4
+Astro AEC,http://as.288856.xyz/vip.php?id=Astro+AEC&tid=1
+Astro QJ,http://as.288856.xyz/vip.php?id=Astro+QJ&tid=1
+Astro AOD,http://as.288856.xyz/vip.php?id=Astro+AOD&tid=1
+Astro AOD,http://as.288856.xyz/vip.php?id=Astro+AOD&tid=2
+Astro 欢喜台,http://as.288856.xyz/vip.php?id=Astro+%E6%AC%A2%E5%96%9C%E5%8F%B0&tid=1
+娱家台,http://as.288856.xyz/vip.php?id=%E5%A8%B1%E5%AE%B6%E5%8F%B0&tid=1
+都会台,http://as.288856.xyz/vip.php?id=%E9%83%BD%E4%BC%9A%E5%8F%B0&tid=1
+Now新闻台,http://as.288856.xyz/vip.php?id=Now%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+Now新闻台,http://as.288856.xyz/vip.php?id=Now%E6%96%B0%E9%97%BB%E5%8F%B0&tid=2
+Now新闻台,http://as.288856.xyz/vip.php?id=Now%E6%96%B0%E9%97%BB%E5%8F%B0&tid=3
+Now新闻台,http://as.288856.xyz/vip.php?id=Now%E6%96%B0%E9%97%BB%E5%8F%B0&tid=4
+Now直播台,http://as.288856.xyz/vip.php?id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&tid=1
+Now直播台,http://as.288856.xyz/vip.php?id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&tid=2
+Now直播台,http://as.288856.xyz/vip.php?id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&tid=3
+Now直播台,http://as.288856.xyz/vip.php?id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&tid=4
+Now财经台,http://as.288856.xyz/vip.php?id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=1
+Now财经台,http://as.288856.xyz/vip.php?id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=2
+Now财经台,http://as.288856.xyz/vip.php?id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=3
+Now财经台,http://as.288856.xyz/vip.php?id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=4
+NowJelli紫金国际,http://as.288856.xyz/vip.php?id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85&tid=1
+NowJelli紫金国际,http://as.288856.xyz/vip.php?id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85&tid=2
+Now Sports 630,http://as.288856.xyz/vip.php?id=Now+Sports+630&tid=1
+Now Sports 630,http://as.288856.xyz/vip.php?id=Now+Sports+630&tid=2
+Now Sports 641,http://as.288856.xyz/vip.php?id=Now+Sports+641&tid=1
+Now Sports Plus,http://as.288856.xyz/vip.php?id=Now+Sports+Plus&tid=1
+Now Sports Plus,http://as.288856.xyz/vip.php?id=Now+Sports+Plus&tid=2
+Now Sports 1,http://as.288856.xyz/vip.php?id=Now+Sports+1&tid=1
+Now Sports 2,http://as.288856.xyz/vip.php?id=Now+Sports+2&tid=1
+Now Sports 3,http://as.288856.xyz/vip.php?id=Now+Sports+3&tid=1
+Now Sports 4,http://as.288856.xyz/vip.php?id=Now+Sports+4&tid=1
+Now Sports 5,http://as.288856.xyz/vip.php?id=Now+Sports+5&tid=1
+Now Sports 6,http://as.288856.xyz/vip.php?id=Now+Sports+6&tid=1
+Now Sports 7,http://as.288856.xyz/vip.php?id=Now+Sports+7&tid=1
+Now Sports 英超1台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%851%E5%8F%B0&tid=1
+Now Sports 英超2台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%852%E5%8F%B0&tid=1
+Now Sports 英超3台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%853%E5%8F%B0&tid=1
+Now Sports 英超4台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%854%E5%8F%B0&tid=1
+Now Sports 英超5台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%855%E5%8F%B0&tid=1
+Now Sports 英超6台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%856%E5%8F%B0&tid=1
+bEINSports1,http://as.288856.xyz/vip.php?id=bEINSports1&tid=1
+bEINSports2,http://as.288856.xyz/vip.php?id=bEINSports2&tid=1
+bEINSports3,http://as.288856.xyz/vip.php?id=bEINSports3&tid=1
+NBA TV,http://as.288856.xyz/vip.php?id=NBA+TV&tid=1
+TVB功夫台,http://as.288856.xyz/vip.php?id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0&tid=1
+TVB功夫台,http://as.288856.xyz/vip.php?id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0&tid=2
+TVB功夫台,http://as.288856.xyz/vip.php?id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0&tid=3
+澳门莲花,http://as.288856.xyz/vip.php?id=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&tid=1
+澳门莲花,http://as.288856.xyz/vip.php?id=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&tid=2
+WOW TV,http://as.288856.xyz/vip.php?id=WOW+TV&tid=1
+KTSF-26美国旧金山,http://as.288856.xyz/vip.php?id=KTSF-26%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1&tid=1
+KR ALL TV,http://as.288856.xyz/vip.php?id=KR+ALL+TV&tid=1
+龙祥时代,http://as.288856.xyz/vip.php?id=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&tid=1
+中国电影频道,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93&tid=1
+中国电影频道,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93&tid=2
+Thrill,http://as.288856.xyz/vip.php?id=Thrill&tid=1
+Thrill,http://as.288856.xyz/vip.php?id=Thrill&tid=2
+Thrill,http://as.288856.xyz/vip.php?id=Thrill&tid=3
+天映频道,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&tid=1
+天映频道,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&tid=2
+天映频道国,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%E5%9B%BD&tid=1
+天映经典,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&tid=1
+天映经典,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&tid=2
+天映经典台,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=1
+天映经典台,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=2
+天映经典台,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=3
+天映经典台,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=4
+天映经典台,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=5
+HOY76,http://as.288856.xyz/vip.php?id=HOY76&tid=1
+HOY76,http://as.288856.xyz/vip.php?id=HOY76&tid=2
+HOY76,http://as.288856.xyz/vip.php?id=HOY76&tid=3
+HOY77,http://as.288856.xyz/vip.php?id=HOY77&tid=1
+HOY77,http://as.288856.xyz/vip.php?id=HOY77&tid=2
+HOY77,http://as.288856.xyz/vip.php?id=HOY77&tid=3
+HOY77,http://as.288856.xyz/vip.php?id=HOY77&tid=4
+HOY77,http://as.288856.xyz/vip.php?id=HOY77&tid=5
+HOY78,http://as.288856.xyz/vip.php?id=HOY78&tid=1
+HOY78,http://as.288856.xyz/vip.php?id=HOY78&tid=2
+HOY78,http://as.288856.xyz/vip.php?id=HOY78&tid=3
+HOY78,http://as.288856.xyz/vip.php?id=HOY78&tid=4
+HOY78,http://as.288856.xyz/vip.php?id=HOY78&tid=5
+TVBS衛星亞洲台,http://as.288856.xyz/vip.php?id=TVBS%E8%A1%9B%E6%98%9F%E4%BA%9E%E6%B4%B2%E5%8F%B0&tid=1
+ViuTV,http://as.288856.xyz/vip.php?id=ViuTV&tid=1
+ViuTV,http://as.288856.xyz/vip.php?id=ViuTV&tid=2
+ViuTV,http://as.288856.xyz/vip.php?id=ViuTV&tid=3
+ViuTV6,http://as.288856.xyz/vip.php?id=ViuTV6&tid=1
+ViuTV6,http://as.288856.xyz/vip.php?id=ViuTV6&tid=2
+ViuTV6,http://as.288856.xyz/vip.php?id=ViuTV6&tid=3
+RTHK31,http://as.288856.xyz/vip.php?id=RTHK31&tid=1
+RTHK32,http://as.288856.xyz/vip.php?id=RTHK32&tid=1
+RTHK31,http://as.288856.xyz/vip.php?id=RTHK31&tid=2
+RTHK31,http://as.288856.xyz/vip.php?id=RTHK31&tid=3
+RTHK31,http://as.288856.xyz/vip.php?id=RTHK31&tid=4
+RTHK32,http://as.288856.xyz/vip.php?id=RTHK32&tid=2
+RTHK32,http://as.288856.xyz/vip.php?id=RTHK32&tid=3
+RTHK32,http://as.288856.xyz/vip.php?id=RTHK32&tid=4
+新时代1,http://as.288856.xyz/vip.php?id=%E6%96%B0%E6%97%B6%E4%BB%A31&tid=1
+新时代1备,http://as.288856.xyz/vip.php?id=%E6%96%B0%E6%97%B6%E4%BB%A31%E5%A4%87&tid=1
+新时代2,http://as.288856.xyz/vip.php?id=%E6%96%B0%E6%97%B6%E4%BB%A32&tid=1
+城市电视,http://as.288856.xyz/vip.php?id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86&tid=1
+城市电视,http://as.288856.xyz/vip.php?id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86&tid=2
+中旺电视,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86&tid=1
+FashionBox,http://as.288856.xyz/vip.php?id=FashionBox&tid=1
+tvN,http://as.288856.xyz/vip.php?id=tvN&tid=1
+Kix,http://as.288856.xyz/vip.php?id=Kix&tid=1
+FashionBox,http://as.288856.xyz/vip.php?id=FashionBox&tid=2
+tvN,http://as.288856.xyz/vip.php?id=tvN&tid=2
+ROCK超级娱乐,http://as.288856.xyz/vip.php?id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90&tid=1
+ROCK综艺娱乐,http://as.288856.xyz/vip.php?id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90&tid=1
+ROCK超级娱乐,http://as.288856.xyz/vip.php?id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90&tid=2
+ROCK超级娱乐,http://as.288856.xyz/vip.php?id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90&tid=3
+ROCK综艺娱乐,http://as.288856.xyz/vip.php?id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90&tid=2
+ROCK综艺娱乐,http://as.288856.xyz/vip.php?id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90&tid=3
+黃金華劇台,http://as.288856.xyz/vip.php?id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0&tid=1
+黃金華劇台,http://as.288856.xyz/vip.php?id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0&tid=2
+MyTV黄金翡翠台,http://as.288856.xyz/vip.php?id=MyTV%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=1
+MyTV黄金翡翠台,http://as.288856.xyz/vip.php?id=MyTV%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0&tid=2
+HKC18台,http://as.288856.xyz/vip.php?id=HKC18%E5%8F%B0&tid=1
+HKC18台,http://as.288856.xyz/vip.php?id=HKC18%E5%8F%B0&tid=2
+HKC18台,http://as.288856.xyz/vip.php?id=HKC18%E5%8F%B0&tid=3
+HKC18台,http://as.288856.xyz/vip.php?id=HKC18%E5%8F%B0&tid=4
+千禧经典,http://as.288856.xyz/vip.php?id=%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8&tid=1
+千禧经典,http://as.288856.xyz/vip.php?id=%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8&tid=2
+MyTV千禧经典台,http://as.288856.xyz/vip.php?id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=1
+MyTV千禧经典台,http://as.288856.xyz/vip.php?id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=2
+MyTV千禧经典台,http://as.288856.xyz/vip.php?id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=3
+亚洲剧台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&tid=1
+华语剧台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&tid=1
+亚洲剧台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&tid=2
+亚洲剧台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&tid=3
+亚洲剧台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&tid=4
+亚洲剧台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&tid=5
+华语剧台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&tid=2
+华语剧台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&tid=3
+华语剧台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&tid=4
+华语剧台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&tid=5
+Kix,http://as.288856.xyz/vip.php?id=Kix&tid=2
+Kix,http://as.288856.xyz/vip.php?id=Kix&tid=3
+Kix,http://as.288856.xyz/vip.php?id=Kix&tid=4
+Kix,http://as.288856.xyz/vip.php?id=Kix&tid=5
+TVB娱乐新闻,http://as.288856.xyz/vip.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&tid=1
+TVB娱乐新闻,http://as.288856.xyz/vip.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&tid=2
+TVB娱乐新闻,http://as.288856.xyz/vip.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&tid=3
+TVB娱乐新闻,http://as.288856.xyz/vip.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&tid=4
+亚洲综合娱乐台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0&tid=1
+亚洲综合娱乐台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0&tid=2
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=1
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=2
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=3
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=4
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=5
+TVBSuperFree,http://as.288856.xyz/vip.php?id=TVBSuperFree&tid=6
+Hands UP,http://as.288856.xyz/vip.php?id=Hands+UP&tid=1
+Hands UP,http://as.288856.xyz/vip.php?id=Hands+UP&tid=2
+Hands UP,http://as.288856.xyz/vip.php?id=Hands+UP&tid=3
+戏曲台,http://as.288856.xyz/vip.php?id=%E6%88%8F%E6%9B%B2%E5%8F%B0&tid=1
+戏曲台,http://as.288856.xyz/vip.php?id=%E6%88%8F%E6%9B%B2%E5%8F%B0&tid=2
+Animax,http://as.288856.xyz/vip.php?id=Animax&tid=1
+Animax,http://as.288856.xyz/vip.php?id=Animax&tid=2
+Thrill,http://as.288856.xyz/vip.php?id=Thrill&tid=4
+ZooMoo,http://as.288856.xyz/vip.php?id=ZooMoo&tid=1
+Nickelodeon,http://as.288856.xyz/vip.php?id=Nickelodeon&tid=1
+NickJr儿童频道,http://as.288856.xyz/vip.php?id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&tid=1
+DreamWorks,http://as.288856.xyz/vip.php?id=DreamWorks&tid=1
+年代Much,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3Much&tid=1
+粤语片台,http://as.288856.xyz/vip.php?id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0&tid=1
+粤语片台,http://as.288856.xyz/vip.php?id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0&tid=2
+美亚电影国,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%9B%BD&tid=1
+美亚电影,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&tid=1
+美亚电影,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&tid=2
+美亚电影,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&tid=3
+美亚电影国,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%9B%BD&tid=2
+美亚电影国,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%9B%BD&tid=3
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=1
+HBOHD,http://as.288856.xyz/vip.php?id=HBOHD&tid=1
+HBO Signature,http://as.288856.xyz/vip.php?id=HBO+Signature&tid=1
+HBO HiTS,http://as.288856.xyz/vip.php?id=HBO+HiTS&tid=1
+HBO family,http://as.288856.xyz/vip.php?id=HBO+family&tid=1
+AXN,http://as.288856.xyz/vip.php?id=AXN&tid=1
+axn,http://as.288856.xyz/vip.php?id=axn&tid=1
+GlobalTrekker,http://as.288856.xyz/vip.php?id=GlobalTrekker&tid=1
+Love Nature,http://as.288856.xyz/vip.php?id=Love+Nature&tid=1
+mySUPER直播足球2台,http://as.288856.xyz/vip.php?id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%832%E5%8F%B0&tid=1
+mySUPER直播足球3台,http://as.288856.xyz/vip.php?id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%833%E5%8F%B0&tid=1
+mySUPER直播足球4台,http://as.288856.xyz/vip.php?id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%834%E5%8F%B0&tid=1
+mySUPER直播足球5台,http://as.288856.xyz/vip.php?id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%835%E5%8F%B0&tid=1
+mySUPER直播足球6台,http://as.288856.xyz/vip.php?id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%836%E5%8F%B0&tid=1
+中视,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86&tid=1
+中视,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86&tid=2
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=1
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=2
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=3
+中视经典,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8&tid=1
+中视菁采,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87&tid=1
+公视,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86&tid=1
+公视,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86&tid=2
+公视,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86&tid=3
+公视,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86&tid=4
+公视3,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%863&tid=1
+公视戏剧,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7&tid=1
+公视台语台,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD%E5%8F%B0&tid=1
+公视新闻,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86%E6%96%B0%E9%97%BB&tid=1
+民视,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86&tid=1
+民视,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86&tid=2
+民视,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86&tid=3
+民视第一台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0&tid=1
+民视第一台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0&tid=2
+民视台湾台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=1
+民视台湾台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=2
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=2
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=3
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=4
+民视影剧台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0&tid=1
+民视旅游台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0&tid=1
+民视综艺台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0&tid=1
+台视,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86&tid=1
+台视,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86&tid=2
+台视,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86&tid=3
+台视,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86&tid=4
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=1
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=2
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=3
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=4
+台视综合,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88&tid=1
+台视综合,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88&tid=2
+台视财经,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F&tid=1
+台视财经,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F&tid=2
+台湾戏剧,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7&tid=1
+台湾戏剧,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7&tid=2
+华视,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86&tid=1
+华视,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86&tid=2
+华视,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86&tid=3
+华视新闻资讯,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&tid=1
+华视新闻资讯,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&tid=2
+霹雳台湾台,http://as.288856.xyz/vip.php?id=%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=1
+霹雳台湾台,http://as.288856.xyz/vip.php?id=%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=2
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=1
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=2
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=3
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=4
+JET综合台,http://as.288856.xyz/vip.php?id=JET%E7%BB%BC%E5%90%88%E5%8F%B0&tid=1
+JET综合台,http://as.288856.xyz/vip.php?id=JET%E7%BB%BC%E5%90%88%E5%8F%B0&tid=2
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=1
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=2
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=3
+年代Much,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3Much&tid=2
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=1
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=2
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=3
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=4
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=5
+非凡商业,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A&tid=1
+非凡商业,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A&tid=2
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=1
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=2
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=3
+寰宇新闻台湾台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=1
+寰宇新闻台湾台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=2
+寰宇财经台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=1
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=1
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=2
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=3
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=4
+东森超視美洲,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A6%96%E7%BE%8E%E6%B4%B2&tid=1
+东森美洲,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2&tid=1
+东森美洲卫视,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2%E5%8D%AB%E8%A7%86&tid=1
+东森中国台,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E4%B8%AD%E5%9B%BD%E5%8F%B0&tid=1
+东森超视,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86&tid=1
+东森超视,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86&tid=2
+东森亚洲,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E4%BA%9A%E6%B4%B2&tid=1
+东森亚洲,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E4%BA%9A%E6%B4%B2&tid=2
+东森综合,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&tid=1
+东森综合,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&tid=2
+东森综合,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&tid=3
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=1
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=2
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=3
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=4
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=5
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=6
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=1
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=2
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=3
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=4
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=5
+东森LIVE,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AELIVE&tid=1
+国兴卫视,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E5%85%B4%E5%8D%AB%E8%A7%86&tid=1
+国兴卫视,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E5%85%B4%E5%8D%AB%E8%A7%86&tid=2
+三立都会台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&tid=1
+三立都会台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&tid=2
+三立都会台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&tid=3
+三立综合台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0&tid=1
+三立综合台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0&tid=2
+三立综合台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0&tid=3
+三立台湾台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=1
+三立台湾台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=2
+三立台湾台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=3
+三立台湾台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=4
+三立新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+三立新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&tid=2
+三立iNEWS,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8BiNEWS&tid=1
+三立iNEWS,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8BiNEWS&tid=2
+三立国际台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0&tid=1
+东森LIVE,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AELIVE&tid=2
+LIVE三立,http://as.288856.xyz/vip.php?id=LIVE%E4%B8%89%E7%AB%8B&tid=1
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=2
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=3
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=4
+中天新闻台2台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B02%E5%8F%B0&tid=1
+中天综合,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&tid=1
+中天综合,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&tid=2
+中天综合,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&tid=3
+中天娱乐,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&tid=1
+中天娱乐,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&tid=2
+中天娱乐,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&tid=3
+纬来综合,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88&tid=1
+纬来综合,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88&tid=2
+纬来综合,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88&tid=3
+纬来精彩,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&tid=1
+纬来精彩,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&tid=2
+纬来育乐,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90&tid=1
+纬来育乐,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90&tid=2
+纬来育乐,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90&tid=3
+八大综合台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&tid=1
+八大综合台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&tid=2
+八大综合台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&tid=3
+八大综合台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&tid=4
+八大精彩台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0&tid=1
+八大精彩台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0&tid=2
+八大娱乐台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90%E5%8F%B0&tid=1
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=2
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=3
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=4
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=5
+TVBS精采台,http://as.288856.xyz/vip.php?id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0&tid=1
+TVBS精采台,http://as.288856.xyz/vip.php?id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0&tid=2
+TVBS精采台,http://as.288856.xyz/vip.php?id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0&tid=3
+TVBS欢乐台,http://as.288856.xyz/vip.php?id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0&tid=1
+TVBS欢乐台,http://as.288856.xyz/vip.php?id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0&tid=2
+TVBS欢乐台,http://as.288856.xyz/vip.php?id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0&tid=3
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=1
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=2
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=3
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=4
+靖天综合台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0&tid=1
+靖天综合台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0&tid=2
+靖天日本台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0&tid=1
+靖天日本台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0&tid=2
+靖天资讯台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF%E5%8F%B0&tid=1
+靖天国际台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&tid=1
+靖天国际台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&tid=2
+靖天国际台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&tid=3
+靖天育乐台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90%E5%8F%B0&tid=1
+靖天欢乐台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0&tid=1
+靖天欢乐台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0&tid=2
+ELTA娱乐,http://as.288856.xyz/vip.php?id=ELTA%E5%A8%B1%E4%B9%90&tid=1
+ELTA娱乐,http://as.288856.xyz/vip.php?id=ELTA%E5%A8%B1%E4%B9%90&tid=2
+客家电视台,http://as.288856.xyz/vip.php?id=%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0&tid=1
+信大,http://as.288856.xyz/vip.php?id=%E4%BF%A1%E5%A4%A7&tid=1
+原住民频道,http://as.288856.xyz/vip.php?id=%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A2%91%E9%81%93&tid=1
+新唐人亞太台,http://as.288856.xyz/vip.php?id=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0&tid=1
+VOA美国之音,http://as.288856.xyz/vip.php?id=VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3&tid=1
+韩国娱乐台,http://as.288856.xyz/vip.php?id=%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%8F%B0&tid=1
+古典音乐台,http://as.288856.xyz/vip.php?id=%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%8F%B0&tid=1
+猪哥亮歌厅秀,http://as.288856.xyz/vip.php?id=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&tid=1
+人间卫视,http://as.288856.xyz/vip.php?id=%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86&tid=1
+大爱一台,http://as.288856.xyz/vip.php?id=%E5%A4%A7%E7%88%B1%E4%B8%80%E5%8F%B0&tid=1
+大爱二台,http://as.288856.xyz/vip.php?id=%E5%A4%A7%E7%88%B1%E4%BA%8C%E5%8F%B0&tid=1
+好消息,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E6%B6%88%E6%81%AF&tid=1
+好消息,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E6%B6%88%E6%81%AF&tid=2
+好消息2,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E6%B6%88%E6%81%AF2&tid=1
+好消息2,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E6%B6%88%E6%81%AF2&tid=2
+国会频道1,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%931&tid=1
+国会频道1,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%931&tid=2
+国会频道2,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%932&tid=1
+国会频道2,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%932&tid=2
+新闻,http://as.288856.xyz/vip.php?id=%E6%96%B0%E9%97%BB&tid=1
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=4
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=5
+寰宇新闻,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&tid=6
+寰宇新闻台湾台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=3
+寰宇新闻台湾台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0&tid=4
+寰宇财经台,http://as.288856.xyz/vip.php?id=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F%E5%8F%B0&tid=2
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=5
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=6
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=7
+镜新闻,http://as.288856.xyz/vip.php?id=%E9%95%9C%E6%96%B0%E9%97%BB&tid=8
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=5
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=6
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=7
+中天新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0&tid=8
+中天新闻台2台,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B02%E5%8F%B0&tid=2
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=6
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=7
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=8
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=9
+TVBS新闻台,http://as.288856.xyz/vip.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&tid=10
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=5
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=6
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=7
+TVBSHD,http://as.288856.xyz/vip.php?id=TVBSHD&tid=8
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=4
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=5
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=6
+中视新闻,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&tid=7
+公视新闻,http://as.288856.xyz/vip.php?id=%E5%85%AC%E8%A7%86%E6%96%B0%E9%97%BB&tid=2
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=5
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=6
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=7
+民视新闻台,http://as.288856.xyz/vip.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&tid=8
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=5
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=6
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=7
+台视新闻,http://as.288856.xyz/vip.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&tid=8
+华视新闻资讯,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&tid=3
+华视新闻资讯,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&tid=4
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=5
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=6
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=7
+壹新闻,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E6%96%B0%E9%97%BB&tid=8
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=4
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=5
+年代新闻,http://as.288856.xyz/vip.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&tid=6
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=6
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=7
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=8
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=9
+非凡新闻,http://as.288856.xyz/vip.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&tid=10
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=7
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=8
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=9
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=10
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=11
+东森新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&tid=12
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=6
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=7
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=8
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=9
+东森财经新闻,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB&tid=10
+三立新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&tid=3
+三立新闻台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&tid=4
+三立iNEWS,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8BiNEWS&tid=3
+三立iNEWS,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8BiNEWS&tid=4
+三立国际台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0&tid=2
+LIVE三立,http://as.288856.xyz/vip.php?id=LIVE%E4%B8%89%E7%AB%8B&tid=2
+Now Sports 1,http://as.288856.xyz/vip.php?id=Now+Sports+1&tid=2
+Now Sports 3,http://as.288856.xyz/vip.php?id=Now+Sports+3&tid=2
+Now Sports 4,http://as.288856.xyz/vip.php?id=Now+Sports+4&tid=2
+Now Sports 5,http://as.288856.xyz/vip.php?id=Now+Sports+5&tid=2
+Now Sports 6,http://as.288856.xyz/vip.php?id=Now+Sports+6&tid=2
+Now Sports 7,http://as.288856.xyz/vip.php?id=Now+Sports+7&tid=2
+Now Sports 7,http://as.288856.xyz/vip.php?id=Now+Sports+7&tid=3
+Now Sports 英超1台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%851%E5%8F%B0&tid=2
+Now Sports 英超1台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%851%E5%8F%B0&tid=3
+Now Sports 英超1台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%851%E5%8F%B0&tid=4
+Now Sports 英超1台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%851%E5%8F%B0&tid=5
+Now Sports 英超2台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%852%E5%8F%B0&tid=2
+Now Sports 英超3台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%853%E5%8F%B0&tid=2
+Now Sports 英超4台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%854%E5%8F%B0&tid=2
+Now Sports 英超5台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%855%E5%8F%B0&tid=2
+Now Sports 英超6台,http://as.288856.xyz/vip.php?id=Now+Sports+%E8%8B%B1%E8%B6%856%E5%8F%B0&tid=2
+Now Sports 641,http://as.288856.xyz/vip.php?id=Now+Sports+641&tid=2
+Now Sports 630,http://as.288856.xyz/vip.php?id=Now+Sports+630&tid=3
+Now Sports Plus,http://as.288856.xyz/vip.php?id=Now+Sports+Plus&tid=3
+NBA,http://as.288856.xyz/vip.php?id=NBA&tid=1
+NBA,http://as.288856.xyz/vip.php?id=NBA&tid=2
+NBA,http://as.288856.xyz/vip.php?id=NBA&tid=3
+NBA,http://as.288856.xyz/vip.php?id=NBA&tid=4
+ELTA体育2,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B22&tid=1
+ELTA体育2,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B22&tid=2
+ELTA体育4,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B24&tid=1
+ELTA体育MAX1,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B2MAX1&tid=1
+ELTA体育MAX2,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B2MAX2&tid=1
+ELTA体育MAX3,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B2MAX3&tid=1
+ELTA体育MAX4,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B2MAX4&tid=1
+GinxTV电竞频道,http://as.288856.xyz/vip.php?id=GinxTV%E7%94%B5%E7%AB%9E%E9%A2%91%E9%81%93&tid=1
+纬来体育,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&tid=1
+纬来体育,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&tid=2
+纬来体育,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&tid=3
+纬来体育,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&tid=4
+博斯运动1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&tid=1
+博斯运动1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&tid=2
+博斯运动1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&tid=3
+博斯运动1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&tid=4
+博斯运动2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82&tid=1
+博斯运动2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82&tid=2
+博斯高球1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831&tid=1
+博斯高球1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831&tid=2
+博斯高球1,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831&tid=3
+博斯高球2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832&tid=1
+博斯高球2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832&tid=2
+博斯网球,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&tid=1
+博斯网球,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&tid=2
+博斯网球,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&tid=3
+博斯网球,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&tid=4
+博斯无限,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90&tid=1
+博斯无限,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90&tid=2
+博斯无限,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90&tid=3
+博斯无限2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902&tid=1
+博斯无限2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902&tid=2
+博斯无限2,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902&tid=3
+博斯魅力,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B&tid=1
+博斯魅力,http://as.288856.xyz/vip.php?id=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B&tid=2
+智林体育台,http://as.288856.xyz/vip.php?id=%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0&tid=1
+TRACESportStars,http://as.288856.xyz/vip.php?id=TRACESportStars&tid=1
+ELTA体育1,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B21&tid=1
+ELTA体育1,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B21&tid=2
+ELTA体育1,http://as.288856.xyz/vip.php?id=ELTA%E4%BD%93%E8%82%B21&tid=3
+CCTV5+,http://as.288856.xyz/vip.php?id=CCTV5%2B&tid=1
+CCTV5+,http://as.288856.xyz/vip.php?id=CCTV5%2B&tid=2
+CCTV5,http://as.288856.xyz/vip.php?id=CCTV5&tid=1
+CCTV5,http://as.288856.xyz/vip.php?id=CCTV5&tid=2
+CCTV16,http://as.288856.xyz/vip.php?id=CCTV16&tid=1
+CCTV16,http://as.288856.xyz/vip.php?id=CCTV16&tid=2
+五星体育,http://as.288856.xyz/vip.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&tid=1
+电影,http://as.288856.xyz/vip.php?id=%E7%94%B5%E5%BD%B1&tid=1
+美亚电影台,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=1
+美亚电影台,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=2
+龙祥时代,http://as.288856.xyz/vip.php?id=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&tid=2
+龙祥时代,http://as.288856.xyz/vip.php?id=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&tid=3
+龙祥时代,http://as.288856.xyz/vip.php?id=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&tid=4
+龙祥时代,http://as.288856.xyz/vip.php?id=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&tid=5
+龙华偶像,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&tid=1
+龙华偶像,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&tid=2
+龙华偶像,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&tid=3
+龙华偶像,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&tid=4
+龙华偶像,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&tid=5
+龙华戏剧,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&tid=1
+龙华戏剧,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&tid=2
+龙华戏剧,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&tid=3
+龙华戏剧,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&tid=4
+龙华日韩,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9&tid=1
+龙华电影,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&tid=1
+龙华电影,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&tid=2
+龙华影剧,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7&tid=1
+龙华洋片,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&tid=1
+龙华洋片,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&tid=2
+龙华洋片,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&tid=3
+龙华洋片,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&tid=4
+龙华卡通,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A&tid=1
+龙华卡通,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A&tid=2
+龙华经典,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8&tid=1
+龙华经典,http://as.288856.xyz/vip.php?id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8&tid=2
+纬来戏剧,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7&tid=1
+纬来戏剧,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7&tid=2
+纬来戏剧,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7&tid=3
+纬来日本,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&tid=1
+纬来日本,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&tid=2
+纬来日本,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&tid=3
+纬来日本,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&tid=4
+纬来电影,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&tid=1
+纬来电影,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&tid=2
+纬来电影,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&tid=3
+纬来电影,http://as.288856.xyz/vip.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&tid=4
+东森电影,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&tid=1
+东森电影,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&tid=2
+东森电影,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&tid=3
+东森电影,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&tid=4
+东森洋片,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&tid=1
+东森洋片,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&tid=2
+东森洋片,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&tid=3
+东森洋片,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&tid=4
+东森戏剧,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&tid=1
+东森戏剧,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&tid=2
+东森戏剧,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&tid=3
+东森戏剧,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&tid=4
+三立戏剧台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&tid=1
+三立戏剧台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&tid=2
+三立戏剧台,http://as.288856.xyz/vip.php?id=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&tid=3
+八大第一台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&tid=1
+八大第一台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&tid=2
+八大第一台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&tid=3
+八大戏剧台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&tid=1
+八大戏剧台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&tid=2
+八大戏剧台,http://as.288856.xyz/vip.php?id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&tid=3
+靖天戏剧台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7%E5%8F%B0&tid=1
+靖天戏剧台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7%E5%8F%B0&tid=2
+靖天映画台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB%E5%8F%B0&tid=1
+靖天电影台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=1
+华艺MBC综合台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%89%BAMBC%E7%BB%BC%E5%90%88%E5%8F%B0&tid=1
+华艺MBC综合台,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E8%89%BAMBC%E7%BB%BC%E5%90%88%E5%8F%B0&tid=2
+壹电影,http://as.288856.xyz/vip.php?id=%E5%A3%B9%E7%94%B5%E5%BD%B1&tid=1
+EYETV戏剧,http://as.288856.xyz/vip.php?id=EYETV%E6%88%8F%E5%89%A7&tid=1
+ELTA影剧,http://as.288856.xyz/vip.php?id=ELTA%E5%BD%B1%E5%89%A7&tid=1
+ELTA影剧,http://as.288856.xyz/vip.php?id=ELTA%E5%BD%B1%E5%89%A7&tid=2
+ELTA影剧,http://as.288856.xyz/vip.php?id=ELTA%E5%BD%B1%E5%89%A7&tid=3
+ELTA影剧,http://as.288856.xyz/vip.php?id=ELTA%E5%BD%B1%E5%89%A7&tid=4
+ELTA综合,http://as.288856.xyz/vip.php?id=ELTA%E7%BB%BC%E5%90%88&tid=1
+ELTA综合,http://as.288856.xyz/vip.php?id=ELTA%E7%BB%BC%E5%90%88&tid=2
+采昌影剧台,http://as.288856.xyz/vip.php?id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0&tid=1
+采昌影剧台,http://as.288856.xyz/vip.php?id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0&tid=2
+采昌影剧台,http://as.288856.xyz/vip.php?id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0&tid=3
+AXN頻道,http://as.288856.xyz/vip.php?id=AXN%E9%A0%BB%E9%81%93&tid=1
+AXN頻道,http://as.288856.xyz/vip.php?id=AXN%E9%A0%BB%E9%81%93&tid=2
+华纳电影,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1&tid=1
+华纳电影,http://as.288856.xyz/vip.php?id=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1&tid=2
+tVN,http://as.288856.xyz/vip.php?id=tVN&tid=1
+CinemaWorld,http://as.288856.xyz/vip.php?id=CinemaWorld&tid=1
+CINEMAX,http://as.288856.xyz/vip.php?id=CINEMAX&tid=1
+CINEMAX,http://as.288856.xyz/vip.php?id=CINEMAX&tid=2
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=2
+HBOHD,http://as.288856.xyz/vip.php?id=HBOHD&tid=2
+HBOHD,http://as.288856.xyz/vip.php?id=HBOHD&tid=3
+HBOHD,http://as.288856.xyz/vip.php?id=HBOHD&tid=4
+HBO原创,http://as.288856.xyz/vip.php?id=HBO%E5%8E%9F%E5%88%9B&tid=1
+HBO原创,http://as.288856.xyz/vip.php?id=HBO%E5%8E%9F%E5%88%9B&tid=2
+HBO原创,http://as.288856.xyz/vip.php?id=HBO%E5%8E%9F%E5%88%9B&tid=3
+HBO强档,http://as.288856.xyz/vip.php?id=HBO%E5%BC%BA%E6%A1%A3&tid=1
+HBO强档,http://as.288856.xyz/vip.php?id=HBO%E5%BC%BA%E6%A1%A3&tid=2
+HBO强档,http://as.288856.xyz/vip.php?id=HBO%E5%BC%BA%E6%A1%A3&tid=3
+HBO家庭,http://as.288856.xyz/vip.php?id=HBO%E5%AE%B6%E5%BA%AD&tid=1
+HBO家庭,http://as.288856.xyz/vip.php?id=HBO%E5%AE%B6%E5%BA%AD&tid=2
+私人影院,http://as.288856.xyz/vip.php?id=%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2&tid=1
+好莱坞电影,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&tid=1
+好莱坞电影,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&tid=2
+好莱坞电影,http://as.288856.xyz/vip.php?id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&tid=3
+amc最爱电影,http://as.288856.xyz/vip.php?id=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&tid=1
+CatchPlay电影台,http://as.288856.xyz/vip.php?id=CatchPlay%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=1
+CatchPlay电影台,http://as.288856.xyz/vip.php?id=CatchPlay%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=2
+经典电影台,http://as.288856.xyz/vip.php?id=%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=1
+美亚电影台,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&tid=3
+Thrill惊悚,http://as.288856.xyz/vip.php?id=Thrill%E6%83%8A%E6%82%9A&tid=1
+AXN頻道,http://as.288856.xyz/vip.php?id=AXN%E9%A0%BB%E9%81%93&tid=3
+AXN頻道,http://as.288856.xyz/vip.php?id=AXN%E9%A0%BB%E9%81%93&tid=4
+AXN頻道,http://as.288856.xyz/vip.php?id=AXN%E9%A0%BB%E9%81%93&tid=5
+tVN,http://as.288856.xyz/vip.php?id=tVN&tid=2
+幸福空间居家台,http://as.288856.xyz/vip.php?id=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%97%B4%E5%B1%85%E5%AE%B6%E5%8F%B0&tid=1
+BBC Earth,http://as.288856.xyz/vip.php?id=BBC+Earth&tid=1
+BBC Earth,http://as.288856.xyz/vip.php?id=BBC+Earth&tid=2
+BBC Lifestyle,http://as.288856.xyz/vip.php?id=BBC+Lifestyle&tid=1
+BBC Lifestyle,http://as.288856.xyz/vip.php?id=BBC+Lifestyle&tid=2
+HISTORY2,http://as.288856.xyz/vip.php?id=HISTORY2&tid=1
+国家地理,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86&tid=1
+国家地理野生,http://as.288856.xyz/vip.php?id=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E9%87%8E%E7%94%9F&tid=1
+动物星球,http://as.288856.xyz/vip.php?id=%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83&tid=1
+探索频道,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93&tid=1
+探索频道,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93&tid=2
+探索科学,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6&tid=1
+探索科学,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6&tid=2
+探索科学,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6&tid=3
+探索亚洲,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E4%BA%9A%E6%B4%B2&tid=1
+探索亚洲,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E4%BA%9A%E6%B4%B2&tid=2
+探索亚洲,http://as.288856.xyz/vip.php?id=%E6%8E%A2%E7%B4%A2%E4%BA%9A%E6%B4%B2&tid=3
+亚洲美食频道,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E7%BE%8E%E9%A3%9F%E9%A2%91%E9%81%93&tid=1
+美食星球,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&tid=1
+美食星球,http://as.288856.xyz/vip.php?id=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&tid=2
+亚洲旅游台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&tid=1
+亚洲旅游台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&tid=2
+亚洲旅游台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&tid=3
+亚洲旅游台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&tid=4
+亚洲旅游台,http://as.288856.xyz/vip.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&tid=5
+EYETV旅游,http://as.288856.xyz/vip.php?id=EYETV%E6%97%85%E6%B8%B8&tid=1
+EYETV旅游,http://as.288856.xyz/vip.php?id=EYETV%E6%97%85%E6%B8%B8&tid=2
+ELTA生活旅游,http://as.288856.xyz/vip.php?id=ELTA%E7%94%9F%E6%B4%BB%E6%97%85%E6%B8%B8&tid=1
+靖天卡通台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=1
+靖天卡通台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=2
+靖天卡通台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=3
+靖洋卡通台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=1
+靖洋卡通台,http://as.288856.xyz/vip.php?id=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=2
+东森幼幼,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&tid=1
+东森幼幼,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&tid=2
+东森幼幼,http://as.288856.xyz/vip.php?id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&tid=3
+MOMO亲子台,http://as.288856.xyz/vip.php?id=MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0&tid=1
+MOMO亲子台,http://as.288856.xyz/vip.php?id=MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0&tid=2
+CN卡通频道,http://as.288856.xyz/vip.php?id=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&tid=1
+CN卡通频道,http://as.288856.xyz/vip.php?id=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&tid=2
+CN卡通频道,http://as.288856.xyz/vip.php?id=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&tid=3
+尼克儿童频道,http://as.288856.xyz/vip.php?id=%E5%B0%BC%E5%85%8B%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&tid=1
+尼克儿童频道,http://as.288856.xyz/vip.php?id=%E5%B0%BC%E5%85%8B%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&tid=2
+Boomerang,http://as.288856.xyz/vip.php?id=Boomerang&tid=1
+NickJr儿童频道,http://as.288856.xyz/vip.php?id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&tid=2
+BBC Cbeebies,http://as.288856.xyz/vip.php?id=BBC+Cbeebies&tid=1
+BBC Cbeebies,http://as.288856.xyz/vip.php?id=BBC+Cbeebies&tid=2
+经典卡通台,http://as.288856.xyz/vip.php?id=%E7%BB%8F%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0&tid=1
+MOMO台,http://as.288856.xyz/vip.php?id=MOMO%E5%8F%B0&tid=1
+NickJr儿童频道,http://as.288856.xyz/vip.php?id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&tid=3
+DidikTV7,http://as.288856.xyz/vip.php?id=DidikTV7&tid=1
+8TV 八度空间,http://as.288856.xyz/vip.php?id=8TV+%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4&tid=1
+8TV 八度空间,http://as.288856.xyz/vip.php?id=8TV+%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4&tid=2
+iQIYI爱奇艺,http://as.288856.xyz/vip.php?id=iQIYI%E7%88%B1%E5%A5%87%E8%89%BA&tid=1
+TVB千禧经典台,http://as.288856.xyz/vip.php?id=TVB%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&tid=1
+Astro AEC,http://as.288856.xyz/vip.php?id=Astro+AEC&tid=2
+Astro AEC,http://as.288856.xyz/vip.php?id=Astro+AEC&tid=3
+Astro AEC,http://as.288856.xyz/vip.php?id=Astro+AEC&tid=4
+Astro QJ,http://as.288856.xyz/vip.php?id=Astro+QJ&tid=2
+Astro QJ,http://as.288856.xyz/vip.php?id=Astro+QJ&tid=3
+天映频道,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&tid=3
+天映频道,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&tid=4
+天映经典,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&tid=3
+天映经典,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&tid=4
+TVB翡翠台（马来）,http://as.288856.xyz/vip.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E9%A9%AC%E6%9D%A5%EF%BC%89&tid=1
+TVB翡翠台（马来）,http://as.288856.xyz/vip.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E9%A9%AC%E6%9D%A5%EF%BC%89&tid=2
+AOD 311,http://as.288856.xyz/vip.php?id=AOD+311&tid=1
+AOD 311,http://as.288856.xyz/vip.php?id=AOD+311&tid=2
+中天亚洲,http://as.288856.xyz/vip.php?id=%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2&tid=1
+TVB娱乐新闻台,http://as.288856.xyz/vip.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0&tid=1
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=4
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=5
+TVBSAsia,http://as.288856.xyz/vip.php?id=TVBSAsia&tid=1
+凤凰中文,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&tid=5
+凤凰资讯,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&tid=1
+凤凰资讯,http://as.288856.xyz/vip.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&tid=2
+欢喜台,http://as.288856.xyz/vip.php?id=%E6%AC%A2%E5%96%9C%E5%8F%B0&tid=1
+欢喜台,http://as.288856.xyz/vip.php?id=%E6%AC%A2%E5%96%9C%E5%8F%B0&tid=2
+CCTV-4,http://as.288856.xyz/vip.php?id=CCTV-4&tid=1
+SukanRTM,http://as.288856.xyz/vip.php?id=SukanRTM&tid=1
+BeritaRTM,http://as.288856.xyz/vip.php?id=BeritaRTM&tid=1
+HEROES,http://as.288856.xyz/vip.php?id=HEROES&tid=1
+TV1,http://as.288856.xyz/vip.php?id=TV1&tid=1
+TV2,http://as.288856.xyz/vip.php?id=TV2&tid=1
+TV3,http://as.288856.xyz/vip.php?id=TV3&tid=1
+Astro Ria,http://as.288856.xyz/vip.php?id=Astro+Ria&tid=1
+Astro Ria,http://as.288856.xyz/vip.php?id=Astro+Ria&tid=2
+Astro Prima,http://as.288856.xyz/vip.php?id=Astro+Prima&tid=1
+Astro Prima,http://as.288856.xyz/vip.php?id=Astro+Prima&tid=2
+Astro Oasis,http://as.288856.xyz/vip.php?id=Astro+Oasis&tid=1
+Astro Warna,http://as.288856.xyz/vip.php?id=Astro+Warna&tid=1
+Astro Warna,http://as.288856.xyz/vip.php?id=Astro+Warna&tid=2
+Astro Citra,http://as.288856.xyz/vip.php?id=Astro+Citra&tid=1
+Astro Citra,http://as.288856.xyz/vip.php?id=Astro+Citra&tid=2
+Astro Rania,http://as.288856.xyz/vip.php?id=Astro+Rania&tid=1
+Astro Aura,http://as.288856.xyz/vip.php?id=Astro+Aura&tid=1
+TV Alhijrah,http://as.288856.xyz/vip.php?id=TV+Alhijrah&tid=1
+TV Okey,http://as.288856.xyz/vip.php?id=TV+Okey&tid=1
+9TV,http://as.288856.xyz/vip.php?id=9TV&tid=1
+Vaanavil,http://as.288856.xyz/vip.php?id=Vaanavil&tid=1
+Adithya,http://as.288856.xyz/vip.php?id=Adithya&tid=1
+KBSWorld,http://as.288856.xyz/vip.php?id=KBSWorld&tid=1
+One,http://as.288856.xyz/vip.php?id=One&tid=1
+One,http://as.288856.xyz/vip.php?id=One&tid=2
+One,http://as.288856.xyz/vip.php?id=One&tid=3
+One,http://as.288856.xyz/vip.php?id=One&tid=4
+tvN,http://as.288856.xyz/vip.php?id=tvN&tid=3
+tvN,http://as.288856.xyz/vip.php?id=tvN&tid=4
+NHK World Premium,http://as.288856.xyz/vip.php?id=NHK+World+Premium&tid=1
+Boo,http://as.288856.xyz/vip.php?id=Boo&tid=1
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=3
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=4
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=5
+Cinemax,http://as.288856.xyz/vip.php?id=Cinemax&tid=1
+HBOFamily,http://as.288856.xyz/vip.php?id=HBOFamily&tid=1
+HBOFamily,http://as.288856.xyz/vip.php?id=HBOFamily&tid=2
+HBOHits,http://as.288856.xyz/vip.php?id=HBOHits&tid=1
+HBOHits,http://as.288856.xyz/vip.php?id=HBOHits&tid=2
+Awani,http://as.288856.xyz/vip.php?id=Awani&tid=1
+Bernama,http://as.288856.xyz/vip.php?id=Bernama&tid=1
+CGTN,http://as.288856.xyz/vip.php?id=CGTN&tid=1
+CGTN,http://as.288856.xyz/vip.php?id=CGTN&tid=2
+CNN,http://as.288856.xyz/vip.php?id=CNN&tid=1
+CNN,http://as.288856.xyz/vip.php?id=CNN&tid=2
+BBCWorldNews,http://as.288856.xyz/vip.php?id=BBCWorldNews&tid=1
+BBCWorldNews,http://as.288856.xyz/vip.php?id=BBCWorldNews&tid=2
+Aljazeera,http://as.288856.xyz/vip.php?id=Aljazeera&tid=1
+SkyNews,http://as.288856.xyz/vip.php?id=SkyNews&tid=1
+ChannelNewsAsia,http://as.288856.xyz/vip.php?id=ChannelNewsAsia&tid=1
+ChannelNewsAsia,http://as.288856.xyz/vip.php?id=ChannelNewsAsia&tid=2
+CNBC,http://as.288856.xyz/vip.php?id=CNBC&tid=1
+Bloomberg TV,http://as.288856.xyz/vip.php?id=Bloomberg+TV&tid=1
+Love Nature,http://as.288856.xyz/vip.php?id=Love+Nature&tid=2
+History,http://as.288856.xyz/vip.php?id=History&tid=1
+Ceria,http://as.288856.xyz/vip.php?id=Ceria&tid=1
+Ceria,http://as.288856.xyz/vip.php?id=Ceria&tid=2
+CartoonNetwork,http://as.288856.xyz/vip.php?id=CartoonNetwork&tid=1
+CartoonNetwork,http://as.288856.xyz/vip.php?id=CartoonNetwork&tid=2
+CartoonNetwork,http://as.288856.xyz/vip.php?id=CartoonNetwork&tid=3
+Nickelodeon,http://as.288856.xyz/vip.php?id=Nickelodeon&tid=2
+Nickelodeon,http://as.288856.xyz/vip.php?id=Nickelodeon&tid=3
+Nickelodeon,http://as.288856.xyz/vip.php?id=Nickelodeon&tid=4
+NickJr,http://as.288856.xyz/vip.php?id=NickJr&tid=1
+NickJr,http://as.288856.xyz/vip.php?id=NickJr&tid=2
+NickJr,http://as.288856.xyz/vip.php?id=NickJr&tid=3
+CBeebies,http://as.288856.xyz/vip.php?id=CBeebies&tid=1
+AXN,http://as.288856.xyz/vip.php?id=AXN&tid=2
+Hits,http://as.288856.xyz/vip.php?id=Hits&tid=1
+TLC,http://as.288856.xyz/vip.php?id=TLC&tid=1
+WarnerTV,http://as.288856.xyz/vip.php?id=WarnerTV&tid=1
+HGTV,http://as.288856.xyz/vip.php?id=HGTV&tid=1
+Arena,http://as.288856.xyz/vip.php?id=Arena&tid=1
+SuperSport,http://as.288856.xyz/vip.php?id=SuperSport&tid=1
+SuperSport2,http://as.288856.xyz/vip.php?id=SuperSport2&tid=1
+SuperSport3,http://as.288856.xyz/vip.php?id=SuperSport3&tid=1
+SuperSport4,http://as.288856.xyz/vip.php?id=SuperSport4&tid=1
+SPOTV,http://as.288856.xyz/vip.php?id=SPOTV&tid=1
+Eurosport,http://as.288856.xyz/vip.php?id=Eurosport&tid=1
+Mediacorp Suria,http://as.288856.xyz/vip.php?id=Mediacorp+Suria&tid=1
+Mediacorp-5,http://as.288856.xyz/vip.php?id=Mediacorp-5&tid=1
+Mediacorp-8,http://as.288856.xyz/vip.php?id=Mediacorp-8&tid=1
+Mediacorp-U,http://as.288856.xyz/vip.php?id=Mediacorp-U&tid=1
+TVB翡翠台（新加坡）,http://as.288856.xyz/vip.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0%EF%BC%88%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BC%89&tid=1
+TVB星河频道,http://as.288856.xyz/vip.php?id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&tid=6
+天映频道,http://as.288856.xyz/vip.php?id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&tid=5
+都会台,http://as.288856.xyz/vip.php?id=%E9%83%BD%E4%BC%9A%E5%8F%B0&tid=2
+AstroSensasi,http://as.288856.xyz/vip.php?id=AstroSensasi&tid=1
+AstroSensasi,http://as.288856.xyz/vip.php?id=AstroSensasi&tid=2
+AstroWarna,http://as.288856.xyz/vip.php?id=AstroWarna&tid=1
+Mediacorp Vasantham,http://as.288856.xyz/vip.php?id=Mediacorp+Vasantham&tid=1
+RockAction,http://as.288856.xyz/vip.php?id=RockAction&tid=1
+RockEntertainment,http://as.288856.xyz/vip.php?id=RockEntertainment&tid=1
+HBO,http://as.288856.xyz/vip.php?id=HBO&tid=6
+HBOFamily,http://as.288856.xyz/vip.php?id=HBOFamily&tid=3
+HBOHits,http://as.288856.xyz/vip.php?id=HBOHits&tid=3
+HBOSignature,http://as.288856.xyz/vip.php?id=HBOSignature&tid=1
+Cinemax,http://as.288856.xyz/vip.php?id=Cinemax&tid=2
+Gem,http://as.288856.xyz/vip.php?id=Gem&tid=1
+GlobalTrekker,http://as.288856.xyz/vip.php?id=GlobalTrekker&tid=2
+Travelxp,http://as.288856.xyz/vip.php?id=Travelxp&tid=1
+Animax,http://as.288856.xyz/vip.php?id=Animax&tid=3
+MolaSport,http://as.288856.xyz/vip.php?id=MolaSport&tid=1
+HubSports1,http://as.288856.xyz/vip.php?id=HubSports1&tid=1
+HubSports2,http://as.288856.xyz/vip.php?id=HubSports2&tid=1
+HubSports3,http://as.288856.xyz/vip.php?id=HubSports3&tid=1
+HubSports4,http://as.288856.xyz/vip.php?id=HubSports4&tid=1
+HubSports5,http://as.288856.xyz/vip.php?id=HubSports5&tid=1
+HubPremier1,http://as.288856.xyz/vip.php?id=HubPremier1&tid=1
+HubPremier2,http://as.288856.xyz/vip.php?id=HubPremier2&tid=1
+HubPremier3,http://as.288856.xyz/vip.php?id=HubPremier3&tid=1
+HubPremier4,http://as.288856.xyz/vip.php?id=HubPremier4&tid=1
+HubPremier5,http://as.288856.xyz/vip.php?id=HubPremier5&tid=1
+HubPremier6,http://as.288856.xyz/vip.php?id=HubPremier6&tid=1
+HubPremier7,http://as.288856.xyz/vip.php?id=HubPremier7&tid=1
+
+
 
 港台🍊频道,#genre#
 
