@@ -579,7 +579,7 @@ RTHK32,http://212.135.213.196/smt3.2.1.php?id=rhk32_twn
 凤凰资讯,http://212.135.213.196/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港,http://212.135.213.196/smt3.2.1.php?id=hkphoenix_twn
 美亚电影台,http://212.135.213.196/smt3.2.1.php?id=meiyamovie_twn
-天映频道,http://212.135.213.196/smt3.2.1.p
+
 
 三网🔮港台,#genre#
 TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
