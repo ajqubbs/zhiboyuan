@@ -25,7 +25,12 @@
 {"id":"11","title":"青龙TV直播","logo":"https://pics.mgwyx.com/mgwyx/imgfile/20260312/12165758xueq.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ieM0H3kpzw9a","image1":"","image2":"","daxiao":"18.8MB","create_time":"260317"}
 
 
-{"id":"12","title":"GEEK-TV1.2.0［收藏点击5次密码8888］","logo":"https://free-img.400040.xyz/4/2026/03/20/69bd62b4888c8.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iyfeM3l22wlc","image1":"","image2":"","daxiao":"18.8MB","create_time":"260317"}
+{"id":"12","title":"GEEK-TV1.2.0［收藏点击5次密码8888］","logo":"https://free-img.400040.xyz/4/2026/03/20/69bd62b4888c8.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iyfeM3l22wlc","image1":"","image2":"","daxiao":"14.8MB","create_time":"260320"}
+
+
+{"id":"13","title":"酷影直播","logo":"https://free-img.400040.xyz/4/2026/03/20/69bd62b4888c8.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iwUgz3l4tl6f","image1":"","image2":"","daxiao":"24.8MB","create_time":"260321"}
+
+
 
 {"id":"15","title":"至尊4K","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a225da58.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iOo3t3jrnp1e","image1":"","image2":"","daxiao":"58.8MB","create_time":"260304 "}
 
