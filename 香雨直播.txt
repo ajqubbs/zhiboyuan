@@ -1,8 +1,9 @@
+
 经典🦔轮播,#genre#
 林正英,http://tv.zimtv.cn/tv/player/api/huya.php?id=31183563
 古惑仔,https://live.ottiptv.cc/yy/1458015189
-港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
-【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+港片搞笑,https://live.ottiptv.cc/yy/1355480591
+周星驰,https://live.ottiptv.cc/yy/38670875
 恐怖电影,https://live.ottiptv.cc/yy/24066336
 林正英经典,https://live.ottiptv.cc/yy/1351505899
 鬼片喜剧动作港剧,https://live.ottiptv.cc/yy/1355269576
