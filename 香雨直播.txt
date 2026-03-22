@@ -1,4 +1,6 @@
-🔥港台电影,#genre#
+
+
+港台🌧电影,#genre#
 
 中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
 美亚电影,http://tl.061833.xyz/tl/null-5
@@ -71,7 +73,7 @@ CCTV6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
-🇭🇰香港,#genre#
+香港🌧频道,#genre#
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
@@ -94,9 +96,6 @@ TVB PLUS,http://74.91.26.218:82/live/j2.m3u8#https://smt.1678520.xyz/smt3.2.3.ph
 无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 Now新闻,http://cdn.163189.xyz/163189/now
 
-HOY 76 
-HOY 77 
-HOY 78 
 HOY 77,http://cdn.163189.xyz/163189/hoy
 VIUTV,https://cdn.163189.xyz/163189/viu 
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -131,7 +130,7 @@ TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 
 
  
-🇹🇼台湾,#genre#
+台湾🌧频道,#genre#
 温馨提醒:设置超时30秒最佳,http://rihou.cc:555/tv/ds
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天亚洲,http://rihou.cc:555/tv/中天亚洲
@@ -184,18 +183,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 民视第一,http://ip1.xiaomidadi.cn:8088/live/vnr8miLNxI7tlvjD/hls.m3u8
 
 
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,https://hls.iill.top/api/wlty/index.m3u8
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
