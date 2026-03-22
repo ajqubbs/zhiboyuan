@@ -385,7 +385,7 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 民视第一,http://74.91.26.218:82/live/ftvdy.m3u8
 民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
-
+台視新聞 测试,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts$原生解码最佳
 中视,http://211.72.174.95:8113/0.ts$原生解码最佳
 华视,http://211.72.174.95:8114/0.ts$原生解码最佳
