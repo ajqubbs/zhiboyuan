@@ -191,6 +191,162 @@ CCTV卫生健康,http://rihou.cc:555/tv/CCTV卫生健康
 农林卫视,http://rihou.cc:555/tv/农林卫视
 厦门卫视,http://rihou.cc:555/tv/厦门卫视
 
+
+央视🍬备用,#genre#
+CCTV-1 综合,http://171.11.67.47:5000/608807420
+CCTV-1 综合,http://61.184.46.85:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,https://iptv.gstory.cn/Cinetry/608807420
+CCTV-1 综合,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+
+CCTV-2 财经,https://iptv.gstory.cn/Cinetry/631780532
+CCTV-2 财经,http://171.11.67.47:5000/631780532
+CCTV-2 财经,http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+
+CCTV-3 综艺,http://171.11.67.47:5000/624878271
+CCTV-3 综艺,https://iptv.gstory.cn/Cinetry/624878271
+CCTV-3 综艺,http://61.184.46.85:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+
+CCTV-4 中文国际,https://iptv.gstory.cn/Cinetry/631780421
+CCTV-4 中文国际,http://171.11.67.47:5000/631780421
+CCTV-4 中文国际,http://61.184.46.85:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+
+CCTV-4 中文国际 中文国际 K,http://home.amucn.net:8800/udp/239.49.0.82:8000
+CCTV-4 中文国际 中文国际 K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4 中文国际 中文国际 K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+
+CCTV-4 中文国际 中文国际 欧洲,https://iptv.gstory.cn/Cinetry/608807419
+CCTV-4 中文国际 中文国际 欧洲,http://171.11.67.47:5000/608807419
+
+CCTV-4 中文国际 中文国际 美洲,https://iptv.gstory.cn/Cinetry/608807416
+CCTV-4 中文国际 中文国际 美洲,http://171.11.67.47:5000/608807416
+
+CCTV-5 体育,https://iptv.gstory.cn/Cinetry/641886683
+CCTV-5 体育,http://171.11.67.47:5000/641886683
+CCTV-5 体育,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+
+CCTV-5 体育 体育 +,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+CCTV-5 体育 体育 +,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV-6 电影,https://iptv.gstory.cn/Cinetry/624878396
+CCTV-6 电影,http://171.11.67.47:5000/624878396
+CCTV-6 电影,http://61.184.46.85:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+
+CCTV-7 国防军事,https://iptv.gstory.cn/Cinetry/673168121
+CCTV-7 国防军事,http://171.11.67.47:5000/673168121
+CCTV-7 国防军事,http://61.184.46.85:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+
+CCTV-8 电视剧,https://iptv.gstory.cn/Cinetry/624878356
+CCTV-8 电视剧,http://171.11.67.47:5000/624878356
+CCTV-8 电视剧,http://61.184.46.85:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+
+CCTV-8 电视剧 电视剧 K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+
+CCTV-9 纪录,https://iptv.gstory.cn/Cinetry/673168140
+CCTV-9 纪录,http://171.11.67.47:5000/673168140
+CCTV-9 纪录,http://61.184.46.85:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+
+CCTV-10 科教,https://iptv.gstory.cn/Cinetry/624878405
+CCTV-10 科教,http://171.11.67.47:5000/624878405
+CCTV-10 科教,http://61.184.46.85:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+
+CCTV-11 戏曲,https://iptv.gstory.cn/Cinetry/667987558
+CCTV-11 戏曲,http://171.11.67.47:5000/667987558
+CCTV-11 戏曲,http://61.184.46.85:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+
+CCTV-12 社会与法,https://iptv.gstory.cn/Cinetry/673168185
+CCTV-12 社会与法,http://171.11.67.47:5000/673168185
+CCTV-12 社会与法,http://61.184.46.85:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+
+CCTV-13 新闻,https://iptv.gstory.cn/Cinetry/608807423
+CCTV-13 新闻,http://171.11.67.47:5000/608807423
+CCTV-13 新闻,http://61.184.46.85:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV-14 少儿,https://iptv.gstory.cn/Cinetry/624878440
+CCTV-14 少儿,http://171.11.67.47:5000/624878440
+CCTV-14 少儿,http://61.184.46.85:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+
+CCTV-15 音乐,https://iptv.gstory.cn/Cinetry/673168223
+CCTV-15 音乐,http://171.11.67.47:5000/673168223
+CCTV-15 音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+
+CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-16 奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+CCTV-17 农业农村,https://iptv.gstory.cn/Cinetry/673168256
+CCTV-17 农业农村,http://171.11.67.47:5000/673168256
+CCTV-17 农业农村,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV-17 农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
+
+CCTV-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+
+CCTV-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+CCTV-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+
+CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+CCTV-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
+CCTV-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+CCTV-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+
+CGTN,https://iptv.gstory.cn/Cinetry/609017205
+CGTN,http://171.11.67.47:5000/609017205
+CGTN,https://0472.org/hls/cgtn.m3u8
+
+CGTN俄语,https://iptv.gstory.cn/Cinetry/609006446
+CGTN俄语,http://171.11.67.47:5000/609006446
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
+
+CGTN外语纪录,https://iptv.gstory.cn/Cinetry/609006487
+CGTN外语纪录,http://171.11.67.47:5000/609006487
+
+CGTN法语,https://iptv.gstory.cn/Cinetry/609006476
+CGTN法语,http://171.11.67.47:5000/609006476
+CGTN法语,http://zqh2333.top:2222/rtp/239.93.55.50:5140
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+
+CGTN西班牙语,https://iptv.gstory.cn/Cinetry/609006450
+CGTN西班牙语,http://171.11.67.47:5000/609006450
+
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+
+CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+
+CGTN阿拉伯语,https://iptv.gstory.cn/Cinetry/609154345
+CGTN阿拉伯语,http://171.11.67.47:5000/609154345
+
+CGTN阿语,https://0472.org/hls/cgtna.m3u8?3.24.160:5140
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
+
 广东🧁潮汕,#genre#
 广东卫视|直播,http://m.061899.xyz/mg/gdws
 广东珠江|直播,http://m.061899.xyz/mg/gdzj
