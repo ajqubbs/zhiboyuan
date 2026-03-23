@@ -202,7 +202,7 @@ CCTV卫生健康,http://rihou.cc:555/tv/CCTV卫生健康
 厦门卫视,http://rihou.cc:555/tv/厦门卫视
 
 
-央视🍬备用,#genre#
+央广🍬备用,#genre#
 
 CCTV-1,http://120.238.5.44:1698/hls/17/index.m3u8
 CCTV-2,http://120.238.5.44:1698/hls/18/index.m3u8
