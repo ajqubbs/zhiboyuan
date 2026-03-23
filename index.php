@@ -54,7 +54,7 @@
 
 {"id":"22","title":"河蚌戏水","logo":"https://1760860.v.123pan.cn/1760860/%E6%99%B4%E5%A4%A9/%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%BA%94%E7%94%A8/%E5%B8%82%E5%9C%BA%E5%BA%94%E7%94%A8/QQ20260113-104521.png","desc1":"其他应用","desc":"腰疼软件，不喜欢 勿下载","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iTs4x3j6v38b","image1":"https://1760860.v.123pan.cn/1760860/%E6%99%B4%E5%A4%A9/%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%BA%94%E7%94%A8/%E5%B8%82%E5%9C%BA%E5%BA%94%E7%94%A8/QQ20260208-021536.png","image2":"https://1760860.v.123pan.cn/1760860/%E6%99%B4%E5%A4%A9/%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%BA%94%E7%94%A8/%E5%B8%82%E5%9C%BA%E5%BA%94%E7%94%A8/QQ20260208-021536.png","daxiao":"","create_time":"9 日以前 "}
 
-{"id":"23","title":"非凡智教［学生］","logo":"https://free-img.400040.xyz/4/2026/03/21/69be2f5beaa5a.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXaj63laloid","image1":"","image2":"","daxiao":"20.43MB","create_time":"260323"}
+{"id":"23","title":"非凡智教［学生］","logo":"https://free-img.400040.xyz/4/2026/03/23/69c098eaa96e1.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXaj63laloid","image1":"","image2":"","daxiao":"20.43MB","create_time":"260323"}
 
 {"id":"23","title":"玄武TV直播","logo":"https://free-img.400040.xyz/4/2026/03/21/69be2f5beaa5a.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ihSaq3l4ua4d","image1":"","image2":"","daxiao":"20.43MB","create_time":"260321"}
 
