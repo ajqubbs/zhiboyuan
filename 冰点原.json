@@ -1,0 +1,719 @@
+{
+  "wallpaper": "https://tv.nxog.top/m/t/",
+  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
+  "spider": "https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
+  "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+  "sites": [
+    {
+      "key": "腾讯弹幕",
+      "name": "🔰腾讯4K┃自建",
+      "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+      "type": 3,
+      "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://12134.kstore.space/tx.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "🔰芒果4K┃自建",
+      "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+      "type": 3,
+      "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://12134.kstore.space/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
+    },
+    {
+      "key": "爱奇艺弹幕",
+      "name": "🔰IQY2K┃自建",
+      "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+      "type": 3,
+      "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://12134.kstore.space/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+    },
+    {
+      "key": "优酷弹幕",
+      "name": "🔰优酷2K┃自建",
+      "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+      "type": 3,
+      "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://12134.kstore.space/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+    },
+    {
+      "key": "🔱jianan芒🏅",
+      "name": "🔰芒果无搜索",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/from/mgtv/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "剧情片",
+        "犯罪片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        " 动画片"
+      ]
+    },
+    {
+      "key": "chenmo",
+      "name": "🔰冰点┃综合线路",
+      "type": 1,
+      "api": "https://movies.52xiaobai.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔱jianan腾🏅",
+      "name": "🔰腾讯无搜索",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/from/qq/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "剧情片",
+        "犯罪片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        " 动画片"
+      ]
+    },
+    {
+      "key": "🔱jianan优酷🏅",
+      "name": "🔰优酷无搜索",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/from/youku/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "剧情片",
+        "犯罪片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        " 动画片"
+      ]
+    },
+    {
+      "key": "🔱jiananqiyi🏅",
+      "name": "🔰奇异无搜索",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/from/qiyi/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "剧情片",
+        "犯罪片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        " 动画片"
+      ]
+    },
+    {
+      "key": "🔱jiananbili🏅",
+      "name": "🔰冰点┃自建bili",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/from/qiyi/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "剧情片",
+        "犯罪片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        " 动画片"
+      ]
+    },
+    {
+      "key": "py_官方采集789",
+      "name": "🔰冰点｜自建聚合",
+      "type": 4,
+      "api": "https://py.doube.eu.org/v2/spider?site=006849a2c19a6be413be5017be468c63"
+    },
+    {
+      "key": "芒guo",
+      "name": "🔰冰点｜果果弹幕版",
+      "type": 3,
+      "api": "https://12134.kstore.space/drpy2.min.js",
+      "ext": "https://12134.kstore.space/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔰冰点┃火火",
+      "type": 3,
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/54f9b949e1ebbcf7/猫.jar",
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "农民",
+      "name": "🔰自建|农民秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://wp.kayyw.com/f/EbEgf0/ok%E4%BA%86.jar",
+      "ext": {
+        "副标题": "334",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://vip.wwgz.cn:5200/;;!H"
+      }
+    },
+    {
+      "key": "热播影视",
+      "name": "🔰热播┃影视",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c9ead055fd9273a3/热播跟肥6.jar",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "搜影视",
+      "name": "🔰自建|凡汐秒播",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E7%95%AA%E5%96%9C.py",
+      "ext": "http://118.89.203.120:8365/"
+    },
+    {
+      "key": "liangzi",
+      "name": "🔰自建｜量子有插播",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "日韩综艺",
+        "港台综艺",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "人人影视",
+      "name": "🔰自建｜人人4K",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_新韩剧网",
+      "name": "🔰冰点｜韩剧",
+      "type": 4,
+      "api": "https://py.doube.eu.org/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6"
+    },
+    {
+      "key": "csp_Guazi",
+      "name": "🔰自建｜瓜子",
+      "type": 3,
+      "jar": "https://12134.kstore.space/vox.jar",
+      "api": "csp_Guazi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "缘梦APP",
+      "name": "🔰自建｜缘梦",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b863c1a3ef40a78b/vox.jar",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://www.zipfve.cn",
+        "datakey": "1234567890987654"
+      }
+    },
+    {
+      "key": "耐看",
+      "name": "🔰自建｜耐看有插播",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E8%80%90%E7%9C%8B.js"
+    },
+    {
+      "key": "teng",
+      "name": "🔰冰点｜腾腾弹幕版",
+      "type": 3,
+      "api": "http://154.64.254.52:800/js/drpy2.min.js",
+      "ext": "https://12134.kstore.space/tx.js"
+    },
+    {
+      "key": "qi",
+      "name": "🔰冰点｜奇异弹幕版",
+      "type": 3,
+      "api": "http://154.64.254.52:800/js/drpy2.min.js",
+      "ext": "https://12134.kstore.space/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+    },
+    {
+      "key": "you酷",
+      "name": "🔰冰点｜酷酷弹幕版",
+      "type": 3,
+      "api": "https://12134.kstore.space/drpy2.min.js",
+      "ext": "https://12134.kstore.space/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+    },
+    {
+      "key": "冰点哔哩",
+      "name": "🔰冰点｜哔哩弹幕版",
+      "type": 3,
+      "api": "https://12134.kstore.space/drpy2.min.js",
+      "ext": "https://12134.kstore.space/bili.js"
+    },
+    {
+      "key": "茫过",
+      "name": "🔰冰点｜冰芒",
+      "searchable": 1,
+      "type": 3,
+      "api": "https://12134.kstore.space/drpy2.min.js",
+      "ext": "https://12134.kstore.space/mgtv.js"
+    },
+    {
+      "key": "星辰",
+      "name": "🔰冰点┃影院",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "Symx",
+      "name": "🔰冰点┃4K若无声音切换音轨",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.min.js",
+      "ext": "https://film.symx.club"
+    },
+    {
+      "key": "咕噜画",
+      "name": "🔰NewTV┃影院",
+      "type": 3,
+      "changeable": 0,
+      "api": "https://12134.kstore.space/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "timeout": 8,
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+    },
+    {
+      "key": "qqqys",
+      "name": "🔥聚合丨4K",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/qqqys?token=ca33ff3f40e73f22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🔱｜789🏅",
+      "name": "👑｜789",
+      "type": 2,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/at/json",
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "drpyS_人人影视[优]",
+      "name": "人人影视",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "人人影视[优]",
+      "author": "EylinSir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "无水印",
+      "name": "🔰冰点┃自建无水印",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "日韩综艺",
+        "港台综艺",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "4K电影",
+        "女频恋爱",
+        "脑洞悬疑",
+        "现代都市",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "lJK模式",
+      "type": 0,
+      "url": "https://154.64.254.52:9999/down/Tjik2tar4v8s.php",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "parses": [
+    {
+      "name": "冰点专线",
+      "type": 1,
+      "url": "https://fanghu.52xiaobai.cn/zong/zong.php?url="
+    },
+    {
+      "name": "4K腾讯",
+      "type": 1,
+      "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
+    },
+    {
+      "name": "4K芒果",
+      "type": 1,
+      "url": "https://fanghu.52xiaobai.cn/mg4k/mg4k.php?url="
+    },
+    {
+      "name": "通用线路",
+      "type": 1,
+      "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
+  "ijk": [
+    {
+      "group": "软解码（流畅版）",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "2"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek+nobuffer"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "8"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "300000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码（流畅版）",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "2"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek+nobuffer"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "8"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "300000000"
+        }
+      ]
+    }
+  ]
+}
