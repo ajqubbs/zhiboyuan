@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "腾讯弹幕",
-      "name": "🔰腾讯4K┃自建",
+      "name": "🍋腾讯4K┃戮默",
       "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
       "type": 3,
       "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
@@ -16,7 +16,7 @@
     },
     {
       "key": "芒果弹幕",
-      "name": "🔰芒果4K┃自建",
+      "name": "🍭芒果4K┃戮默",
       "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
       "type": 3,
       "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
@@ -26,7 +26,7 @@
     },
     {
       "key": "爱奇艺弹幕",
-      "name": "🔰IQY2K┃自建",
+      "name": "🍭IQY2K┃戮默",
       "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
       "type": 3,
       "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
@@ -36,7 +36,7 @@
     },
     {
       "key": "优酷弹幕",
-      "name": "🔰优酷2K┃自建",
+      "name": "🍭优酷2K┃自建",
       "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
       "type": 3,
       "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
@@ -46,7 +46,7 @@
     },
     {
       "key": "🔱jianan芒🏅",
-      "name": "🔰芒果无搜索",
+      "name": "🍭芒果无搜索",
       "type": 1,
       "api": "https://www.caiji.cyou/api.php/provide/vod/from/mgtv/at/json/",
       "searchable": 1,
@@ -80,7 +80,7 @@
     },
     {
       "key": "chenmo",
-      "name": "🔰冰点┃综合线路",
+      "name": "🍭戮默┃综合线路",
       "type": 1,
       "api": "https://movies.52xiaobai.cn/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
     {
       "key": "🔱jianan腾🏅",
-      "name": "🔰腾讯无搜索",
+      "name": "🍭腾讯无搜索",
       "type": 1,
       "api": "https://www.caiji.cyou/api.php/provide/vod/from/qq/at/json",
       "searchable": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key": "🔱jianan优酷🏅",
-      "name": "🔰优酷无搜索",
+      "name": "🍭优酷无搜索",
       "type": 1,
       "api": "https://www.caiji.cyou/api.php/provide/vod/from/youku/at/json",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "🔱jiananqiyi🏅",
-      "name": "🔰奇异无搜索",
+      "name": "🍭奇异无搜索",
       "type": 1,
       "api": "https://www.caiji.cyou/api.php/provide/vod/from/qiyi/at/json",
       "searchable": 1,
@@ -191,7 +191,7 @@
     },
     {
       "key": "🔱jiananbili🏅",
-      "name": "🔰冰点┃自建bili",
+      "name": "🍭戮默┃哔哩bili",
       "type": 1,
       "api": "https://www.caiji.cyou/api.php/provide/vod/from/qiyi/at/json",
       "searchable": 1,
@@ -225,13 +225,13 @@
     },
     {
       "key": "py_官方采集789",
-      "name": "🔰冰点｜自建聚合",
+      "name": "🍭戮默｜聚合",
       "type": 4,
       "api": "https://py.doube.eu.org/v2/spider?site=006849a2c19a6be413be5017be468c63"
     },
     {
       "key": "芒guo",
-      "name": "🔰冰点｜果果弹幕版",
+      "name": "🍭戮默｜果果弹幕版",
       "type": 3,
       "api": "https://12134.kstore.space/drpy2.min.js",
       "ext": "https://12134.kstore.space/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js",
@@ -242,7 +242,7 @@
     },
     {
       "key": "csp_SaoHuo",
-      "name": "🔰冰点┃火火",
+      "name": "🍭戮默┃火火",
       "type": 3,
       "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/54f9b949e1ebbcf7/猫.jar",
       "api": "csp_SaoHuo",
@@ -251,7 +251,7 @@
     },
     {
       "key": "农民",
-      "name": "🔰自建|农民秒播",
+      "name": "🍭戮默|农民秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://wp.kayyw.com/f/EbEgf0/ok%E4%BA%86.jar",
@@ -264,7 +264,7 @@
     },
     {
       "key": "热播影视",
-      "name": "🔰热播┃影视",
+      "name": "🍭热播┃影视",
       "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c9ead055fd9273a3/热播跟肥6.jar",
       "type": 3,
       "api": "csp_AppRJ",
@@ -277,14 +277,14 @@
     },
     {
       "key": "搜影视",
-      "name": "🔰自建|凡汐秒播",
+      "name": "🍭戮默|凡汐秒播",
       "type": 3,
       "api": "https://12134.kstore.space/%E7%95%AA%E5%96%9C.py",
       "ext": "http://118.89.203.120:8365/"
     },
     {
       "key": "liangzi",
-      "name": "🔰自建｜量子有插播",
+      "name": "🍭戮默｜量子有插播",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
       "categories": [
@@ -309,7 +309,7 @@
     },
     {
       "key": "人人影视",
-      "name": "🔰自建｜人人4K",
+      "name": "🍭戮默｜人人4K",
       "type": 3,
       "api": "https://12134.kstore.space/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -319,13 +319,13 @@
     },
     {
       "key": "py_新韩剧网",
-      "name": "🔰冰点｜韩剧",
+      "name": "🍭戮默｜韩剧",
       "type": 4,
       "api": "https://py.doube.eu.org/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6"
     },
     {
       "key": "csp_Guazi",
-      "name": "🔰自建｜瓜子",
+      "name": "🍭戮默｜瓜子",
       "type": 3,
       "jar": "https://12134.kstore.space/vox.jar",
       "api": "csp_Guazi",
@@ -334,7 +334,7 @@
     },
     {
       "key": "缘梦APP",
-      "name": "🔰自建｜缘梦",
+      "name": "🍭戮默｜缘梦",
       "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b863c1a3ef40a78b/vox.jar",
       "type": 3,
       "changeable": 1,
@@ -346,41 +346,41 @@
     },
     {
       "key": "耐看",
-      "name": "🔰自建｜耐看有插播",
+      "name": "🍭戮默｜耐看有插播",
       "type": 3,
       "api": "https://12134.kstore.space/%E8%80%90%E7%9C%8B.js"
     },
     {
       "key": "teng",
-      "name": "🔰冰点｜腾腾弹幕版",
+      "name": "🍭戮默｜腾腾弹幕版",
       "type": 3,
       "api": "http://154.64.254.52:800/js/drpy2.min.js",
       "ext": "https://12134.kstore.space/tx.js"
     },
     {
       "key": "qi",
-      "name": "🔰冰点｜奇异弹幕版",
+      "name": "🍭戮默｜奇异弹幕版",
       "type": 3,
       "api": "http://154.64.254.52:800/js/drpy2.min.js",
       "ext": "https://12134.kstore.space/%E7%88%B1%E5%A5%87%E8%89%BA.js"
     },
     {
       "key": "you酷",
-      "name": "🔰冰点｜酷酷弹幕版",
+      "name": "🍭戮默｜酷酷弹幕版",
       "type": 3,
       "api": "https://12134.kstore.space/drpy2.min.js",
       "ext": "https://12134.kstore.space/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
     },
     {
       "key": "冰点哔哩",
-      "name": "🔰冰点｜哔哩弹幕版",
+      "name": "🍭戮默｜哔哩弹幕版",
       "type": 3,
       "api": "https://12134.kstore.space/drpy2.min.js",
       "ext": "https://12134.kstore.space/bili.js"
     },
     {
       "key": "茫过",
-      "name": "🔰冰点｜冰芒",
+      "name": "🍭戮默｜冰芒",
       "searchable": 1,
       "type": 3,
       "api": "https://12134.kstore.space/drpy2.min.js",
@@ -388,20 +388,20 @@
     },
     {
       "key": "星辰",
-      "name": "🔰冰点┃影院",
+      "name": "🍭戮默┃影院",
       "type": 3,
       "api": "https://12134.kstore.space/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.js"
     },
     {
       "key": "Symx",
-      "name": "🔰冰点┃4K若无声音切换音轨",
+      "name": "🍭戮默┃4K若无声音切换音轨",
       "type": 3,
       "api": "https://12134.kstore.space/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.min.js",
       "ext": "https://film.symx.club"
     },
     {
       "key": "咕噜画",
-      "name": "🔰NewTV┃影院",
+      "name": "🍭戮默┃new影院",
       "type": 3,
       "changeable": 0,
       "api": "https://12134.kstore.space/Appfox.min.js",
@@ -424,7 +424,7 @@
     },
     {
       "key": "🔱｜789🏅",
-      "name": "👑｜789",
+      "name": "👑｜戮默皇冠",
       "type": 2,
       "api": "https://www.caiji.cyou/api.php/provide/vod/at/json",
       "categories": [
@@ -445,7 +445,7 @@
     },
     {
       "key": "drpyS_人人影视[优]",
-      "name": "人人影视",
+      "name": "👑人人｜戮默",
       "type": 4,
       "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
       "searchable": 1,
@@ -459,7 +459,7 @@
     },
     {
       "key": "无水印",
-      "name": "🔰冰点┃自建无水印",
+      "name": "🍭戮默┃无水印",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "categories": [
@@ -504,7 +504,7 @@
   ],
   "parses": [
     {
-      "name": "冰点专线",
+      "name": "戮默专线",
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/zong/zong.php?url="
     },
