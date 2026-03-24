@@ -364,6 +364,23 @@
         "datakey": "1234567890987654"
       }
     },
+{
+      "key": "沙雕动画",
+      "name": "🍭沙雕动画┃戮默",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "cookie": "https://sm.qukan.vip/tvbox/bili.txt",
+        "json": "https://sm.qukan.vip/tvbox/沙雕.js"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
     {
       "key": "耐看",
       "name": "🍭戮默｜耐看有插播",
