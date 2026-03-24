@@ -364,6 +364,17 @@
         "datakey": "1234567890987654"
       }
     },
+    {
+      "key": "py_4k-2",
+      "name": "🍭甄选4k┃戮默",
+      "type": 3,
+      "jar": "http://202.189.11.83:8866/asdasd/spider.jar;md5;6219fa14c7a1054ca899d60a7d12262c",
+      "api": "http://202.189.11.83:8866/asdasd/py/观影.py",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "沙雕动画",
       "name": "🍭沙雕动画┃戮默",
