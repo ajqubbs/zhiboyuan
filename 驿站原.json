@@ -33,7 +33,7 @@
 
     {
       "key": "急救教学",
-      "name": "🏥｜急救｜教学",
+      "name": "开通会员自动切换界面",
       "type": 3,
       "jar": "http://111.170.58.23:66/lib/svip.jar",
       "api": "csp_FirstAid",
