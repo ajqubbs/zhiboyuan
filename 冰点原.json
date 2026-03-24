@@ -15,6 +15,16 @@
       "ext": "https://12134.kstore.space/tx.js"
     },
     {
+      "key": "CO4k",
+      "name": "🍭co4K┃戮默",
+      "type": 1,
+      "api": "https://co4k.1ljx.com:32010/c_api/co4k_cj/?ac=",
+      "playUrl": "json:http://82.157.249.28:1100/api/?key=lzflD3Juz0QtoJNGg3&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "芒果弹幕",
       "name": "🍭芒果4K┃戮默",
       "jar": "https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
