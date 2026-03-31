@@ -4,7 +4,16 @@
   "spider": "https://tv.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
-    {
+   
+  {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "藤藤-（臻彩视界4K）",
+      "type": 3,
+      "api": "https://gitee.com/hy1188/gf199/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/hy1188/gf199/raw/master/lib/qq2.js"
+    },
+
+ {
       "key": "guan",
       "name": "🍭官采4K┃戮默",
       "type": 1,
@@ -14,6 +23,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+
     {
       "key": "CO4k",
       "name": "🍭co4K┃戮默",
