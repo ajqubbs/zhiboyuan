@@ -549,7 +549,7 @@
     {
       "name": "戮默专线",
       "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/zong/zong.php?url="
+      "url": "http://111.170.36.119:88/api/index?parsesId=3&appid=10000&videoUrl="
     },
     {
       "name": "4K腾讯",
@@ -560,6 +560,11 @@
       "name": "4K芒果",
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/mg4k/mg4k.php?url="
+    },
+{
+      "name": "4K芒果",
+      "type": 1,
+      "url": "https://fanghu.52xiaobai.cn/zong/zong.php?url="
     },
     {
       "name": "通用线路",
