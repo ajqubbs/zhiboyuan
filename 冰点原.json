@@ -28,16 +28,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "景天",
-      "name": "🍭景天4K|戮默",
-      "type": 3,
-      "api": "csp_HBcms10Dou",
-      "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
-      "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
-    },
-
-
+    
     {
       "key": "芒果弹幕",
       "name": "🍭芒果4K┃戮默",
