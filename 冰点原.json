@@ -5,13 +5,6 @@
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
  
-  {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "👾麻花疼4K",
-      "type": 3,
-      "api": "https://gitee.com/hy1188/gf199/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/hy1188/gf199/raw/master/lib/qq2.js"
-    },
 
  {
       "key": "guan",
