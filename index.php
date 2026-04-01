@@ -24,7 +24,9 @@
 
 {"id":"10","title":"抖音TV小書版","logo":"http://t7.baidu.com/it/u=4098962790,292963899&fm=74&app=80&f=JPEG?w=200&h=200&s=2B413B66170334FF4BFC489000005096","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/抖音TV小書版_9.9.90.apk","image1":"","image2":"","daxiao":"16.8MB","create_time":"260401"}
 
-{"id":"111","title":"西门吹雪TV版","logo":"https://pic.wk2.com/up/2026-3/20263311731477376.png!100_100","desc1":"影视必备","desc":"","url":"https://57d11.198324.com/com.xm.cx.apk?auth_key=1775035155-PyLlZfBqcS5abzQ5-0-da3ba0ecc70654cf3108c41659ccbd37","image1":"","image2":"","daxiao":"16.7MB","create_time":"260401"}
+{"id":"111","title":"西门吹雪TV版","logo":"https://pic.wk2.com/up/2026-3/20263311731477376.png!100_100","desc1":"影视必备","desc":"","url":"https://57d11.198324.com/com.xm.cx.apk?auth_key=1775035155-PyLlZfBqcS5abzQ5-0-da3ba0ecc70654cf3108c41659ccbd37","image1":"https://pic.wk2.com/up/2026-3/2026331174053996080.png!400_400","image2":"https://pic.wk2.com/up/2026-3/2026331174047764860.png!400_400","daxiao":"16.7MB","create_time":"260401"}
+
+{"id":"112","title":"红苹果4K","logo":"https://free-img.400040.xyz/4/2026/03/23/69c0902c69b45.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ixGBY3l62yxa","image1":"","image2":"","daxiao":"19.8MB","create_time":"260323"}
 
 {"id":"110","title":"红苹果4K","logo":"https://free-img.400040.xyz/4/2026/03/23/69c0902c69b45.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ixGBY3l62yxa","image1":"","image2":"","daxiao":"19.8MB","create_time":"260323"}
 
