@@ -21,7 +21,7 @@
 
 {"id":"9","title":"马马TV[酷9壳]","logo":"https://free-img.400040.xyz/4/2026/03/12/69b2b8d548fc4.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/i8U8u3kgd8of","image1":"","image2":"","daxiao":"42.8MB","create_time":"260312 "}
 
-{"id":"10","title":"抖音TV小書版","logo":"https://free-img.400040.xyz/4/2026/03/23/69c0902c69b45.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ixGBY3l62yxa","image1":"","image2":"","daxiao":"19.8MB","create_time":"260323"}
+{"id":"10","title":"抖音TV小書版","logo":"http://t7.baidu.com/it/u=4098962790,292963899&fm=74&app=80&f=JPEG?w=200&h=200&s=2B413B66170334FF4BFC489000005096","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ixGBY3l62yxa","image1":"","image2":"","daxiao":"19.8MB","create_time":"260323"}
 
 {"id":"110","title":"红苹果4K","logo":"https://free-img.400040.xyz/4/2026/03/23/69c0902c69b45.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/ixGBY3l62yxa","image1":"","image2":"","daxiao":"19.8MB","create_time":"260323"}
 
