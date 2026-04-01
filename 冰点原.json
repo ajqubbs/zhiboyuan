@@ -5,7 +5,41 @@
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
  
-
+    {
+      "key": "极米4k",
+      "name": "🍭4K藤藤|戮默",
+      "type": 3,
+      "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/qingliu4k/cangku/raw/master/极视云主线2.js"
+    },
+    {
+      "key": "芒果自家4k1",
+      "name": "🍭4K芒芒|戮默",
+      "type": 3,
+      "api": "http://110.42.41.52:8989/uploads/cangku/drpy_libs/1drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/qingliu4k/cangku/raw/master/mgtv.js"
+    },
+    {
+      "key": "lvdoyttta",
+      "name": "🍭4K合集|戮默",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://114.66.55.28:4816/api.php/app/"
+    },
  
 
     {
