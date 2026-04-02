@@ -344,6 +344,17 @@
             "filterable": 1,
             "ext": "https:\/\/www.xb6v.com"
         },
+
+{
+            "key": "如意采集资源",
+            "name": "🍭i如意┃戮默",
+            "type": 1,
+            "api": "https:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/",
+            "jar": "http:\/\/47.120.41.246:8025\/vip\/jar\/xiaomi.php",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
         {
             "key": "如意",
             "name": "🍭如意┃戮默",
