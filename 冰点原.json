@@ -30,6 +30,39 @@
       "changeable": 1,
       "ext": "https://gitee.com/qingliu4k/cangku/raw/master/mgtv.js"
     },
+
+        {
+            "key": "ttys",
+            "name": "🍭驾雾4k|戮默",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+        {
+            "key": "机哥剧圈",
+            "name": "🍭剧圈4k|戮默",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/mg.js"
+        },
+
+   {
+            "key": "天翼影",
+            "name": "🍭天翼4K┃戮默",
+            "type": 1,
+            "api": "http:\/\/7.qqqtv.top\/api.php\/provide\/vod\/",
+            "jar": "http:\/\/110.42.36.65:2345\/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "推荐",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
     {
       "key": "lvdoyttta",
       "name": "🍭4K合集|戮默",
