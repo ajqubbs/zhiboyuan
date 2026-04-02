@@ -651,7 +651,7 @@
     },
     {
       "key": "qqqys",
-      "name": "🔥聚合丨4K",
+      "name": "🍭聚合丨4K",
       "type": 4,
       "api": "http://115.191.55.109:8080/video/qqqys?token=ca33ff3f40e73f22",
       "searchable": 1,
@@ -673,7 +673,7 @@
     },
     {
       "key": "🔱｜789🏅",
-      "name": "👑戮默｜皇冠7",
+      "name": "🍭戮默｜皇冠7",
       "type": 2,
       "api": "https://www.caiji.cyou/api.php/provide/vod/at/json",
       "categories": [
@@ -694,7 +694,7 @@
     },
     {
       "key": "drpyS_人人影视[优]",
-      "name": "👑戮默｜人人",
+      "name": "🍭戮默｜人人",
       "type": 4,
       "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
       "searchable": 1,
