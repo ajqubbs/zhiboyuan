@@ -706,6 +706,39 @@
       "lang": "ds",
       "ext": ""
     },
+
+
+        {
+            "key": "csp_Bili_xiangsh",
+            "name": "🍭相声小品|戮默",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "jar": "https:\/\/13537.kstore.vip\/主接口4K﹢蓝光\/lib\/duo.jar",
+            "ext": "https:\/\/13537.kstore.vip\/主接口4K﹢蓝光\/lib\/相声小品.json"
+        },
+        {
+            "key": "csp_Bili_TYjs",
+            "name": "🍭健身|戮默",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "jar": "https:\/\/13537.kstore.vip\/主接口4K﹢蓝光\/lib\/duo.jar",
+            "ext": "https:\/\/13537.kstore.vip\/主接口4K﹢蓝光\/lib\/体育健身.json"
+        },
+
     {
       "key": "无水印",
       "name": "🍭戮默┃无水印",
