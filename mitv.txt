@@ -769,6 +769,7 @@ LiveABC互動英語,mitv://64.32.9.99:7999/81bd57c2dc7672ff381e7e3d5ba23f09.ts
 NHK Education,mitv://64.32.9.99:7999/7b01ee4d8f844112c24e8a2f276c2d4f.ts
 民視旅遊,mitv://64.32.9.99:7999/5e205ea30002744e08c48482d54bf9a8.ts
 好訊息 2,mitv://64.32.9.99:7999/c324875cb7e6f305949456cb4dff8350.ts
+
 人間衛視,mitv://64.32.9.99:7999/26a7cf7e8780b84f97af82b28af85ae2.ts
 大愛一臺HD,mitv://64.32.9.99:7999/b12bd0320fefe88908195bb8edfca65a.ts
 大愛二臺HD,mitv://64.32.9.99:7999/df823d008807df50c1e578efc11afdf7.ts
