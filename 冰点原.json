@@ -4,19 +4,14 @@
   "spider": "http://111.170.58.23:801/store/jar/spider.jar",
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
- 
-    {
-      "key": "极米4k",
-      "name": "🍭4K藤藤|戮默",
-      "type": 3,
-      "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/qingliu4k/cangku/raw/master/极视云主线2.js"
-    },
+ {
+            "key": "ttys",
+            "name": "🍭驾雾4k|戮默",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+
     {
       "key": "芒果自家4k1",
       "name": "🍭4K芒芒|戮默",
@@ -30,13 +25,7 @@
       "ext": "https://gitee.com/qingliu4k/cangku/raw/master/mgtv.js"
     },
 
-        {
-            "key": "ttys",
-            "name": "🍭驾雾4k|戮默",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
+        
         {
             "key": "机哥剧圈",
             "name": "🍭剧圈4k|戮默",
