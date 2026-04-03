@@ -109,7 +109,7 @@ CGTN,mitv://64.32.9.99:7999/5e20c371000647630a4e4a2d57090c6c.ts
 陕西卫视,http://111.221.137.234:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://111.221.137.234:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://111.221.137.234:44330/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
-廈門衛視,mitv://64.32.9.99:7999/c7256bcbd0a7ab8ca05f62986311d1ea.ts
+•廈門衛視,mitv://64.32.9.99:7999/c7256bcbd0a7ab8ca05f62986311d1ea.ts
 廣州影視,mitv://64.32.9.99:7999/70a23ed3f9cc2e817e15ea39791ae562.ts
 廣州新聞,mitv://64.32.9.99:7999/3095b7041981e237244b726c9574853a.ts
 廣州綜合,mitv://64.32.9.99:7999/6a9be6db7f8c872d35bf54e497bfa2ec.ts
