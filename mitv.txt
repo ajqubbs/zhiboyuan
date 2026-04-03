@@ -2137,18 +2137,6 @@ TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
 翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts 
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
 
 
 
