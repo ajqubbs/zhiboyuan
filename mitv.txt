@@ -710,7 +710,7 @@ YonhapnewsTV,mitv://64.32.9.99:7999/3765b978d29ab43e0a8910005b402426.ts
 Z頻道,mitv://64.32.9.99:7999/bd24c969e96aa8d0b0ae22296ba90707.ts
 tvb粵語片臺,mitv://64.32.9.99:7999/001d49130a078fdb6234e2ae2c881779.ts
 テレビ朝日,mitv://64.32.9.99:7999/cc2540e6bbd4feee77e1a192b2c92041.ts
-测试频道,#genre#
+测试频道_18,#genre#
 
 松视1台,https://crlive5.maxv.org/crlive/ea5b29/46/video.m3u8
 •松視2臺,https://crlive5.maxv.org/crlive/4afa74/47/video.m3u8
