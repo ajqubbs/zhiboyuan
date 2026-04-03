@@ -1,3 +1,6 @@
+
+
+
 央视频道,#genre#
 CCTV1,mitv://64.32.9.99:7999/70671333b4fa6ed75fd877ab50203d28.ts
 CCTV1,mitv://64.32.9.99:7999/0d3db59df1cfd1229a0f9dad5be9f73b.ts
@@ -707,7 +710,34 @@ YonhapnewsTV,mitv://64.32.9.99:7999/3765b978d29ab43e0a8910005b402426.ts
 Z頻道,mitv://64.32.9.99:7999/bd24c969e96aa8d0b0ae22296ba90707.ts
 tvb粵語片臺,mitv://64.32.9.99:7999/001d49130a078fdb6234e2ae2c881779.ts
 テレビ朝日,mitv://64.32.9.99:7999/cc2540e6bbd4feee77e1a192b2c92041.ts
+测试频道,#genre#
 
-
+松视1台,https://crlive5.maxv.org/crlive/ea5b29/46/video.m3u8
+•松視2臺,https://crlive5.maxv.org/crlive/4afa74/47/video.m3u8
+•彩虹频道,https://crlive5.maxv.org/crlive/b4014c/51/video.m3u8
+•潘朵啦粉红,https://crlive5.maxv.org/crlive/3bde19/49/video.m3u8
+•潘多拉完美,https://crlive5.maxv.org/crlive/956e44/50/video.m3u8
+•香蕉臺,https://crlive5.maxv.org/crlive/07f2b6/48/video.m3u8
+•加勒比无码,https://crlive5.maxv.org/crlive/bc9e64/52/video.m3u8
+•一本道无码,https://crlive5.maxv.org/crlive/becf3a/53/video.m3u8
+•东京热无码,https://crlive5.maxv.org/crlive/c9e0b9/54/video.m3u8
+•蜜桃影像,https://crlive5.maxv.org/crlive/4095c0/55/video.m3u8
+•麻豆影像,https://crlive5.maxv.org/crlive/805881/56/video.m3u8
+•91制片厂,https://crlive5.maxv.org/crlive/7d2c5f/57/video.m3u8
+•中出,https://crlive4.maxv.org/crlive/5ae45e/31/video.m3u8
+•巨乳,https://crlive4.maxv.org/crlive/924224/32/video.m3u8
+•美少女,https://crlive4.maxv.org/crlive/3f4df1/33/video.m3u8
+•人妻,https://crlive4.maxv.org/crlive/4abbba/34/video.m3u8
+•kid,https://crlive4.maxv.org/crlive/699c5f/35/video.m3u8
+•痴女,https://crlive4.maxv.org/crlive/3396d5/36/video.m3u8
+•痴汉,https://crlive4.maxv.org/crlive/aa2385/43/video.m3u8
+•熟女,https://crlive4.maxv.org/crlive/ddd8f6/37/video.m3u8
+•辣妹,https://crlive4.maxv.org/crlive/eae6ad/38/video.m3u8
+•剧情,https://crlive4.maxv.org/crlive/fdde4d/39/video.m3u8
+•羞辱,https://crlive4.maxv.org/crlive/96abb0/40/video.m3u8
+•角色扮演,https://crlive4.maxv.org/crlive/2d128a/42/video.m3u8
+•乱伦,https://crlive4.maxv.org/crlive/b0ac67/45/video.m3u8
+•多人运动,https://crlive4.maxv.org/crlive/d05895/44/video.m3u8
+•片商精选,https://crlive3.maxv.org/crlive/d23f33/27/video.m3u8
 
 
