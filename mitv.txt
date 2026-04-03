@@ -623,17 +623,6 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 广州南国都市4k,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 
-广东卫视梅州,http://1b6467f415.iok.la:9931/tsfile/live/1010_1.m3u8
-广东珠江梅州,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
-广东新闻梅州,http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
-广东公共梅州,http://1b6467f415.iok.la:9931/tsfile/live/1013_1.m3u8
-广东体育梅州,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
-广东经济梅州,http://1b6467f415.iok.la:9931/tsfile/live/1016_1.m3u8
-广东南方梅州,http://1b6467f415.iok.la:9931/tsfile/live/1017_1.m3u8
-广东影视梅州,http://1b6467f415.iok.la:9931/tsfile/live/1018_1.m3u8
-广东少儿梅州,http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8
-广州综合梅州,http://1b6467f415.iok.la:9931/tsfile/live/1137_1.m3u8
-广州新闻梅州,http://1b6467f415.iok.la:9931/tsfile/live/1138_1.m3u8
 
 广西频道,#genre#
 广西卫视,http://tvtj1.jxwltx.com:8003/gxws.m3u8
