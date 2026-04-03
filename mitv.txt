@@ -371,6 +371,9 @@ Taiwan Plus,mitv://64.32.9.99:7999/104cd5e3cb41c105e40f85c3b6a194e8.ts
 達文西頻道,mitv://64.32.9.99:7999/102147c607c2eb3d1ff1f3a1d8a3e18d.ts
 
 港台备用,#genre#
+动作影院,http://113.120.46.146:8123/rtp/239.21.1.123:5002
+动作影院,http://sunny2017.cn:7788/rtp/239.21.1.123:5002
+动作影院,http://www.sunny2017.online:7788/rtp/239.21.1.123:5002
 NBA直播,http://106.53.99.30/tv/api.php?id=nba
 中视,http://119.91.7.169:2026/TW.php?id=中视
 
