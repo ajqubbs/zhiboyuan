@@ -622,7 +622,6 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 广州南国都市4k,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市4k,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-
 广西频道,#genre#
 广西卫视,http://tvtj1.jxwltx.com:8003/gxws.m3u8
 梧州新闻综合,http://zb.hmysapp.cn:801/dft/guangxi/wuzhou.php?id=wzxwzh
