@@ -16,7 +16,9 @@ CCTV13-新闻,http://183.57.248.146:8183/tsfile/live/0013_1.m3u8
 CCTV-14高清,http://183.57.248.146:8183/tsfile/live/0014_1.m3u8
 CCTV-15高清,http://183.57.248.146:8183/tsfile/live/0015_1.m3u8
 CCTV17农业农村,http://183.57.248.146:8183/tsfile/live/0016_1.m3u8
-
+CHC动作电影HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.186:5540
+CHC家庭影院HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.188:5540
+CHC影迷电影HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.187:5540
 
 CCTV-1 综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -4545,7 +4547,7 @@ WarnerTV華納電影,mitv://64.32.9.99:7999/001b8662bb9d1c0dd114de91ecbecee4.ts
 World Fishing Network,mitv://64.32.9.99:7999/5e20b4f70000ec2e0a15bc3ede35ba6c.ts
 YonhapnewsTV,mitv://64.32.9.99:7999/3765b978d29ab43e0a8910005b402426.ts
 Z頻道,mitv://64.32.9.99:7999/bd24c969e96aa8d0b0ae22296ba90707.ts
-tvb粵語片臺,mitv://64.32.9.99:7999/001d49130a078fdb6234e2ae2c881779.ts
+
 テレビ朝日,mitv://64.32.9.99:7999/cc2540e6bbd4feee77e1a192b2c92041.ts
 
 轮播频道,#genre#
