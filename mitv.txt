@@ -1562,6 +1562,7 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 高邮一套新闻综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8$订阅源
 
 安徽频道,#genre#
+
 六安综合,http://zb.hmysapp.cn:801/dft/anhui/anhuishixun.php?id=lazh
 芜湖新闻综合,http://zb.hmysapp.cn:801/dft/anhui/wuhu.php?id=whxwzh
 芜湖生活,http://zb.hmysapp.cn:801/dft/anhui/wuhu.php?id=whsh
