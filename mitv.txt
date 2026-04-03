@@ -38,10 +38,6 @@ CCTV17农业农村,http://183.57.248.146:8183/tsfile/live/0016_1.m3u8
 深圳卫视,http://183.57.248.146:8183/tsfile/live/0126_1.m3u8
 湖北卫视,http://183.57.248.146:8183/tsfile/live/0132_1.m3u8
 重庆卫视,http://183.57.248.146:8183/tsfile/live/0142_1.m3u8
-
-
-
-央视备用,#genre#
 CCTV1,mitv://64.32.9.99:7999/70671333b4fa6ed75fd877ab50203d28.ts
 CCTV1,mitv://64.32.9.99:7999/0d3db59df1cfd1229a0f9dad5be9f73b.ts
 CCTV1,mitv://64.32.9.99:7999/ba0f175369a486d793c8788c9ce07839.ts
