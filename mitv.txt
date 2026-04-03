@@ -1,6 +1,5 @@
 
 央视频道,#genre#
-
 CCTV-1高清,http://183.57.248.146:8183/tsfile/live/0001_1.m3u8
 CCTV-2高清,http://183.57.248.146:8183/tsfile/live/0002_1.m3u8
 CCTV-3高清,http://183.57.248.146:8183/tsfile/live/0003_1.m3u8
