@@ -38,7 +38,7 @@ CCTV17农业农村,http://183.57.248.146:8183/tsfile/live/0016_1.m3u8
 深圳卫视,http://183.57.248.146:8183/tsfile/live/0126_1.m3u8
 湖北卫视,http://183.57.248.146:8183/tsfile/live/0132_1.m3u8
 重庆卫视,http://183.57.248.146:8183/tsfile/live/0142_1.m3u8
-东森电影,http://183.57.248.146:8183/tsfile/live/1013_1.m3u8
+
 
 
 央视备用,#genre#
@@ -345,6 +345,7 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森电影,http://183.57.248.146:8183/tsfile/live/1013_1.m3u8
 东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
 RTHK 31,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk31hd
 RTHK 32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
