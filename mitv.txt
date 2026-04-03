@@ -3629,6 +3629,7 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 
 测试频道_18,#genre#
 
+
 •松视1台,https://crlive5.maxv.org/crlive/ea5b29/46/video.m3u8
 •松視2臺,https://crlive5.maxv.org/crlive/4afa74/47/video.m3u8
 •彩虹频道,https://crlive5.maxv.org/crlive/b4014c/51/video.m3u8
