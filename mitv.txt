@@ -390,7 +390,7 @@ RTHK 31,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk31hd
 RTHK 32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
 RTHK 34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
 RTHK 35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
-
+TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 英文频道,#genre#
 24 Украiна,mitv://64.32.9.99:7999/11d22190c2d79299d1d36bb1820f14cd.ts
 8TV,mitv://64.32.9.99:7999/08eb6379ff004bde9c037b27366be5c9.ts
