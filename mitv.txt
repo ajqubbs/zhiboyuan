@@ -82,7 +82,7 @@ CGTN,mitv://64.32.9.99:7999/5e20c371000647630a4e4a2d57090c6c.ts
 潮州綜合,mitv://64.32.9.99:7999/5d733f14000481b30518ed178a511ca4.ts
 幸福空間居家,mitv://64.32.9.99:7999/2a6bd2f9055a384aa2689dcebdb9a740.ts
 
-港澳频道,#genre#
+香港频道,#genre#
 CHC動作電影,mitv://64.32.9.99:7999/eaf7056ec04f5a56fcc8c368a54fbe14.ts
 CHC家庭影院,mitv://64.32.9.99:7999/ea7792fa10015617a0f308d8c8ffe073.ts
 CHC影迷電影,mitv://64.32.9.99:7999/290b6b03283b69566b9874222e7a3e9a.ts
@@ -293,6 +293,23 @@ Taiwan Plus,mitv://64.32.9.99:7999/104cd5e3cb41c105e40f85c3b6a194e8.ts
 視納華仁紀實,mitv://64.32.9.99:7999/8d66bfd3fd123663869bb6a7b6f719c0.ts
 達文西頻道,mitv://64.32.9.99:7999/102147c607c2eb3d1ff1f3a1d8a3e18d.ts
 
+港台备用,#genre#
+中视,http://119.91.7.169:2026/TW.php?id=中视
+TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
+中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
+寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+
+无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
+寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
+中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
+RTHK 31,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk31hd
+RTHK 32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
+RTHK 34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
+RTHK 35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 英文频道,#genre#
 24 Украiна,mitv://64.32.9.99:7999/11d22190c2d79299d1d36bb1820f14cd.ts
 8TV,mitv://64.32.9.99:7999/08eb6379ff004bde9c037b27366be5c9.ts
