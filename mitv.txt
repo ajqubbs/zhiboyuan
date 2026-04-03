@@ -1363,28 +1363,3 @@ SMARt知识晴,mitv://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 中视菁采,mitv://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 八大优频道,mitv://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 
-壹電視綜合,mitv://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-緯來精采,mitv://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
-八大優頻道,mitv://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
-
-鏡新聞Mnews,mitv://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-
-民視新聞 HD,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-
-台視新聞 HD,mitv://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff
-
-中視新聞 HD,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
-華視新聞資訊 HD,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
-
-東森財經 HD,mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
-
-年代新聞 HD,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-非凡商業,mitv://generationnexxxt.com:19806/b5785187b95c4e4c857bdd4abbbcf3c0
-寰宇新聞 HD,mitv://135.148.104.228:19806/7e0e534ede5e4405a05ca5e668cb5fb1
-MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MTV Live,mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
-Mezzo Live,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
-CLASSICA 古典樂,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
-CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
-
