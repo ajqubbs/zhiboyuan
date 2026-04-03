@@ -20,6 +20,7 @@ CHC动作电影HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.186:5540
 CHC家庭影院HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.188:5540
 CHC影迷电影HD,http://frp.jl.cloudns.org:7777/udp/239.37.0.187:5540
 
+
 CCTV-1 综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3 综艺,http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
