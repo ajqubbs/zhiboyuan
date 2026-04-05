@@ -759,11 +759,6 @@
 
   ],
   "parses": [
-{
-      "name": "江南4K解析",
-      "type": 1,
-      "url": "http://jiexi.fc8001.top/sHDDttDfGEhMBelX.php?url="
-    },
 
 
     {
@@ -771,6 +766,12 @@
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
     },
+{
+      "name": "江南4K解析",
+      "type": 1,
+      "url": "http://jiexi.fc8001.top/sHDDttDfGEhMBelX.php?url="
+    },
+
     {
       "name": "4K腾讯",
       "type": 1,
