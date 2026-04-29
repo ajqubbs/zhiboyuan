@@ -4,6 +4,17 @@
   "spider": "http://111.170.58.23:801/store/jar/spider.jar",
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
+{
+      "key": "guan",
+      "name": "🍭官采4K┃戮默",
+      "type": 1,
+      "api": "https://cj.xmi6.com/api.php?site_type=official&source=qq,qiyi,youku,mgtv,bilibili&key=wYrjbQgNaYwiunbcTP",
+      "playUrl": "json:https://jx.xiaoyoui.com/api/open/json?key=0dfee175abe24064978be5d42a6e9b55&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
  {
             "key": "ttys",
             "name": "🍭驾雾4k|戮默",
@@ -63,16 +74,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "guan",
-      "name": "🍭官采4K┃戮默",
-      "type": 1,
-      "api": "https://cj.xmi6.com/api.php?site_type=official&source=qq,qiyi,youku,mgtv,bilibili&key=wYrjbQgNaYwiunbcTP",
-      "playUrl": "json:https://jx.xiaoyoui.com/api/open/json?key=0dfee175abe24064978be5d42a6e9b55&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     
     {
       "key": "芒果弹幕",
