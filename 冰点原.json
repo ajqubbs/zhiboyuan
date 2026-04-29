@@ -398,6 +398,16 @@
         " 动画片"
       ]
     },
+   {
+      "key": "偷乐短剧",
+      "name": "😏偷乐｜短剧",
+      "type": 3,
+      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/偷乐短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "剧王短剧",
       "name": "🍭剧王｜短剧",
