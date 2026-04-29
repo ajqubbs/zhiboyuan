@@ -4,14 +4,7 @@
   "spider": "http://111.170.58.23:801/store/jar/spider.jar",
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
-            {
-      "key": "腾讯弹幕",
-      "name": "👑 腾讯┃SVIP🥇",
-      "searchable": 1,
-      "type": 3,
-      "api": "http://tv.gugoujiankang.com:10066/cang/lib/drpy2.min.js",
-      "ext": "http://tv.gugoujiankang.com:10066/cang/lib/腾讯弹幕.js"
-    },
+            
 
 
 {
