@@ -398,7 +398,16 @@
         " 动画片"
       ]
     },
-
+{
+      "key": "剧王短剧",
+      "name": "👑剧王｜短剧",
+      "type": 3,
+      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/剧王短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "py_官方采集789",
       "name": "🍭戮默｜聚合",
