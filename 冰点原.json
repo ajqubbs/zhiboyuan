@@ -23,15 +23,12 @@
  {
       "key": "💕新腾讯",
       "name": "🍭新腾4K",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/%E7%BA%AF%E8%85%BE%E8%AE%AF.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": ""
-    },
+                "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
     {
       "key": "墨韵💛视频",
       "name": "🍭新竹4k",
