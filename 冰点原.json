@@ -6,18 +6,13 @@
   "sites": [ 
             
 
-    {
-      "key": "meigui",
-      "name": "🍭玫瑰蓝光",
-      "type": 1,
-      "api": "https://coffee-api.1ljx.com/c_api/co_cj/",
-      "playUrl": "https://coffee.1ljx.com:32000//api/?key=3cfbee30-e687-4179-b41b-91e82b051eea&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-
-
+        {
+            "key": "ttys",
+            "name": "🍭驾雾|戮默",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
 {
       "key": "guan",
       "name": "🍭官采4K┃戮默",
@@ -38,13 +33,6 @@
       "api": "https://asxav.tprssz.com/image/2026-04-09/8/2042044022836473856#dbokutv.js"
     },
 
- {
-            "key": "ttys",
-            "name": "🍭驾雾4k|戮默",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
     {
       "key": "芒果自家4k1",
       "name": "🍭4K芒芒|戮默",
