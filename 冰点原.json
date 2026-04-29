@@ -20,109 +20,42 @@
 
 
       
- {
-      "key": "💕新腾讯",
-      "name": "🍭新腾4K",
-                "type": 3,
+         {
+            "key": "芒果[cat.js]",
+            "name": "芒果[cat.js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/芒果[cat.js].js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "腾讯[cat.js]",
+            "name": "腾讯[cat.js]",
+            "type": 3,
             "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
         },
-    {
-      "key": "墨韵💛视频",
-      "name": "🍭新竹4k",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txzl.js"
-    },
-    {
-      "key": "💕4K资源☯",
-      "name": "🍭4K资源1",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txsp.js"
-    },
-    {
-      "key": "💕4K资源✡",
-      "name": "🍭4k资源2",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/mgtv.js"
-    },
-    {
-      "key": "💕4K资源♚",
-      "name": "🍭4K资源3",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/哔哩视频.js"
-    },
-    {
-      "key": "腾讯[cat.js]",
-      "name": "🍭腾讯",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "youku[cat.js]",
-      "name": "🍭优酷",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/youku[cat.js].js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "bili[cat.js]",
-      "name": "🍭哔哩",
-      "type": 3,
-      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/bili[cat.js].js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "裤佬JS聚合",
-      "name": "🍭裤佬",
-      "type": 4,
-      "api": "http://zhangqun1818.serv00.net/js.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    {
-      "key": "裤佬EmbyJS",
-      "name": "🍭裤佬1",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+        {
+            "key": "youku[cat.js]",
+            "name": "youku[cat.js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/youku[cat.js].js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "bili[cat.js]",
+            "name": "bili[cat.js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/bili[cat.js].js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
     {
       "key": "独播库",
       "name": "🍭独播",
