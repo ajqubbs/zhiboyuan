@@ -15,6 +15,61 @@
       "filterable": 0
     },
 
+    {
+      "key": "腾讯[cat.js]",
+      "name": "🐱腾讯",
+      "type": 3,
+      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "youku[cat.js]",
+      "name": "youku[cat.js]",
+      "type": 3,
+      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/youku[cat.js].js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "bili[cat.js]",
+      "name": "bili[cat.js]",
+      "type": 3,
+      "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/bili[cat.js].js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬JS聚合",
+      "name": "JS丨聚合",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/js.php",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "裤佬EmbyJS",
+      "name": "Emby丨JS",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "独播库",
+      "name": "独播库 | APP",
+      "type": 3,
+      "api": "https://asxav.tprssz.com/image/2026-04-09/8/2042044022836473856#dbokutv.js"
+    },
+
  {
             "key": "ttys",
             "name": "🍭驾雾4k|戮默",
