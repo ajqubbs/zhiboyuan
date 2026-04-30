@@ -246,7 +246,117 @@
       "changeable": 1,
       "filterable": 1
     },
-
+        {
+            "key": "💕腾讯弹幕",
+            "name": "💕腾讯｜弹幕",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/腾讯弹幕.js"
+        },
+        {
+            "key": "💕优酷弹幕",
+            "name": "💕优酷｜弹幕",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/优酷弹幕.js"
+        },
+        {
+            "key": "💕芒果弹幕",
+            "name": "💕芒果｜弹幕",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/芒果弹幕.js"
+        },
+        {
+            "key": "💕爱奇艺弹幕",
+            "name": "💕爱奇艺｜弹幕",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/爱奇.js"
+        },
+        {
+            "key": "速播线路三",
+            "name": "💕速播线路",
+            "type": 3,
+            "jar": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/jar/spider.jar",
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "爽爽💕短剧",
+            "name": "💕扶摇短剧",
+            "type": 3,
+            "jar": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/jar/xbpqal.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://slzc.cn/",
+                "数组": "<li class=\"item\">&&</li>",
+                "标题": "alt=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "+tags\">&&<",
+                "链接": "href=\"&&\"",
+                "状态": "更新：&&</p >",
+                "导演": "+导演：&&</p >",
+                "主演": "+主演：&&</p",
+                "简介": "请勿相信影片中的广告+简介：&&</p >",
+                "线路数组": "<span class=\"ep-nav active\">&&</span>",
+                "线路标题": "扶摇+>&&<",
+                "播放数组": "<div class=\"ep-list-items\">&&</div>",
+                "倒序": "0",
+                "播放列表": "<a&&/a>",
+                "播放标题": "+>&&</",
+                "播放链接": "href=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://ssdj.cc/search/{wd}/page/{pg}/",
+                "分类url": "https://ssdj.cc/tag/{cateId}/page/{catePg}/",
+                "分类": "女频&逆袭&都市&男频&甜宠&复仇&豪门恩怨&古装&现代言情&虐恋&重生&战神&穿越&现实&现实&亲情&萌宝&强者回归&家庭&情感&霸总&闪婚&赘婿&神医&年代&豪门&马甲&奇幻&言情&玄幻仙侠&寻亲&小人物&历史&神豪&高手下山&古代言情&悬疑&宫斗宅斗&超能&时空之旅&欢喜冤家&脑洞&传承觉醒&短剧&玄幻&现言&奇幻脑洞&虐渣&民国&短&权谋&爱情&职场商战&总裁&喜剧&热血&致富&觉醒&兵王&无敌&团宠&古言&家国情仇&职场&现代&苦情&灵异&励志&宫斗&异能&婚姻&末日&古风&推理&天师&修仙&轻喜&真假千金&系统&校园&反转&武侠&宅斗&搞笑&娱乐圈&科幻&厨神",
+                "分类值": "*"
+            }
+        },
+        {
+            "key": "yk",
+            "name": "💕扶摇官酷",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/优酷[官].js"
+        },
+        {
+            "key": "📚┃儿童",
+            "name": "💕儿童启蒙",
+            "type": 3,
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/兔小贝.js"
+        },
+        {
+            "key": "hipy_js_4K-AV",
+            "name": "💕4KAV",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/4K-AV.js"
+        },
 
     {
       "key": "天天",
