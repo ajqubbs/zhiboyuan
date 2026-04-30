@@ -303,7 +303,7 @@
 {
       "name": "4K免米解析",
       "type": 1,
-      "url": "http://103.106.190.179:801/api/index?parsesId=26&appid=10000&videoUrl="
+      "url": "http://210.16.170.113:8845/api/index?parsesId=4&appid=10001&videoUrl="
     },
 
     {
