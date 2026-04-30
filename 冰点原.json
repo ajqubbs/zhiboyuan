@@ -6,7 +6,103 @@
   "sites": [ 
             
 
-
+     {
+            "key": "hipy_js_百忙无果[官]",
+            "name": "免米┃免米臻彩4K",
+            "type": 3,
+            "api": "http://125.208.22.184:6695/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "playerType": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://125.208.22.184:6695/uploads/tvbox/js/百忙无果[官].js"
+        },
+        {
+            "key": "极米4k",
+            "name": "免米┃免米原彩4K",
+            "type": 3,
+            "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 1,
+            "changeable": 1,
+            "playerType": 3,
+            "ext": "https://210.16.170.113:8889/down/xeaGjhQ5QgKY.js"
+        },
+        {
+            "key": "极速",
+            "name": "免米┃免米极速2K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://210.16.170.113:3999/api.php/app/"
+        },
+        {
+            "key": "lvdou1",
+            "name": "免米┃免米自建4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://210.16.170.113:7000/api.php/app/"
+        },
+        {
+            "key": "lvdou",
+            "name": "免米┃免米高码4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://210.16.170.113:8999/api.php/app/"
+        },
+        {
+            "key": "bibidi",
+            "name": "免米┃哔哩原画4K",
+            "type": 3,
+            "api": "csp_XYbilibili",
+            "ext": "/ZE6FY7TFUnOGwjVo+fPIwgxecYxJjwUmk+mafWAimNHpdXsAOCblVclaJ1esmEy0oUqs/rslu9zoqUFmnyORw==",
+            "jar": "https://210.16.170.113:8889/down/Cunn0dOmpgDd.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "jar": "http://125.208.22.159:5436/uploads/tvbox/jar/guSA1suSAI7N.jar",
+            "key": "bili综合",
+            "name": "免米┃哔哩综合8K",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "",
+                "json": "https://125.208.22.159:8889/down/D77CEHX3DXyb.json"
+            },
+            "timeout": 20
+        },
+        {
+            "key": "lvdou5",
+            "name": "免米┃免米MV歌曲",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://210.16.170.113:1777/api.php/app/"
+        },
         {
             "key": "ttys",
             "name": "🍭驾雾|戮默",
