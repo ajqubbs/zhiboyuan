@@ -5,7 +5,19 @@
   
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
-            
+            {
+            "key": "极米4k",
+            "name": "🍭戮默┃原彩4K",
+            "type": 3,
+            "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 1,
+            "changeable": 1,
+            "playerType": 3,
+            "ext": "https://210.16.170.113:8889/down/xeaGjhQ5QgKY.js"
+        },
 
      {
             "key": "hipy_js_百忙无果[官]",
@@ -19,19 +31,7 @@
             "order_num": 0,
             "ext": "http://125.208.22.184:6695/uploads/tvbox/js/百忙无果[官].js"
         },
-        {
-            "key": "极米4k",
-            "name": "🍭戮默┃原彩4K",
-            "type": 3,
-            "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 1,
-            "changeable": 1,
-            "playerType": 3,
-            "ext": "https://210.16.170.113:8889/down/xeaGjhQ5QgKY.js"
-        },
+        
         {
             "key": "极速",
             "name": "🍭戮默┃极速2K",
