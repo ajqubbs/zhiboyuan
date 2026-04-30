@@ -293,11 +293,34 @@
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
     },
-   
-    {
-      "name": "4K测试解析",
-      "type": 1,
-      "url": "http://103.106.190.179:801/api/index?parsesId=26&appid=10000&videoUrl="
+      {
+      "name": "测试解析",
+      "type": "0",
+      "url": "http://sspa8.top:8100/api/?key=zjg&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
 
 {
