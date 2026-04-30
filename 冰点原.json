@@ -133,7 +133,40 @@
         },
     
  
-
+        {
+            "key": "💕新腾讯",
+            "name": "💕新腾4K[cat.js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/纯腾讯.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": ""
+        },
+        {
+            "key": "墨韵💛视频",
+            "name": "新4k💞[drpy_js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txzl.js"
+        },
+        {
+            "key": "💕4K资源☯",
+            "name": "💕4K[drpy_js]",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txsp.js"
+        },
 
     
    {
