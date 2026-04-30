@@ -314,6 +314,12 @@
       "type": 1,
       "url": "http://103.106.190.179:801/api/index?parsesId=26&appid=10000&videoUrl="
     },
+
+{
+      "name": "4K免米解析",
+      "type": 1,
+      "url": "http://103.106.190.179:801/api/index?parsesId=26&appid=10000&videoUrl="
+    },
     {
       "name": "通用线路",
       "type": 1,
