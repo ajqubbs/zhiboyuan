@@ -301,7 +301,7 @@
     },
 
 {
-      "name": "4K免米解析",
+      "name": "高速免米解析",
       "type": 1,
       "url": "http://210.16.170.113:8845/api/index?parsesId=4&appid=10001&videoUrl="
     },
