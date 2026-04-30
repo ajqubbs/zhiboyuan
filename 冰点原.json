@@ -9,7 +9,7 @@
 
      {
             "key": "hipy_js_百忙无果[官]",
-            "name": "免米┃免米臻彩4K",
+            "name": "戮默┃臻彩4K",
             "type": 3,
             "api": "http://125.208.22.184:6695/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
             "playerType": 3,
@@ -21,7 +21,7 @@
         },
         {
             "key": "极米4k",
-            "name": "免米┃免米原彩4K",
+            "name": "戮默┃原彩4K",
             "type": 3,
             "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
             "searchable": 1,
@@ -34,7 +34,7 @@
         },
         {
             "key": "极速",
-            "name": "免米┃免米极速2K",
+            "name": "戮默┃极速2K",
             "type": 3,
             "api": "csp_AppYsV2",
             "playerType": 3,
@@ -45,7 +45,7 @@
         },
         {
             "key": "lvdou1",
-            "name": "免米┃免米自建4K",
+            "name": "戮默┃自建4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -55,7 +55,7 @@
         },
         {
             "key": "lvdou",
-            "name": "免米┃免米高码4K",
+            "name": "戮默┃高码4K",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -65,7 +65,7 @@
         },
         {
             "key": "bibidi",
-            "name": "免米┃哔哩原画4K",
+            "name": "戮默┃哔哩原画4K",
             "type": 3,
             "api": "csp_XYbilibili",
             "ext": "/ZE6FY7TFUnOGwjVo+fPIwgxecYxJjwUmk+mafWAimNHpdXsAOCblVclaJ1esmEy0oUqs/rslu9zoqUFmnyORw==",
@@ -77,7 +77,7 @@
         {
             "jar": "http://125.208.22.159:5436/uploads/tvbox/jar/guSA1suSAI7N.jar",
             "key": "bili综合",
-            "name": "免米┃哔哩综合8K",
+            "name": "戮默┃哔哩综合8K",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -95,7 +95,7 @@
         },
         {
             "key": "lvdou5",
-            "name": "免米┃免米MV歌曲",
+            "name": "戮默┃MV歌曲",
             "type": 3,
             "api": "csp_AppYsV2",
             "playerType": 3,
