@@ -131,7 +131,15 @@
                 "动漫"
             ]
         },
-    
+            {
+            "key": "移动",
+            "name": "免扫移动💞[xbpq]",
+            "type": 3,
+            "jar": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/jar/yunY.jar",
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1
+        },
  
         {
             "key": "💕新腾讯",
