@@ -105,7 +105,15 @@
             "ext": "http://210.16.170.113:1777/api.php/app/"
         },
    
-
+        {
+            "key": "腾讯[cat.js]",
+            "name": "🍭戮默|腾讯CAT",
+            "type": 3,
+            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
    {
             "key": "天翼影",
             "name": "🍭天翼4K┃戮默",
