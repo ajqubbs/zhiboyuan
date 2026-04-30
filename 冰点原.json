@@ -1,7 +1,8 @@
 {
   "wallpaper": "https://tv.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-  "spider": "http://111.170.58.23:801/store/jar/spider.jar",
+      "spider": "http://125.208.22.184:6019/uploads/tvbox/jar/spider2.jar;md5;83e07fbdf15ceb9d57201bfbfe5ad818",
+  
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
             
