@@ -76,36 +76,7 @@
             "filterable": 1,
             "ext": "http://210.16.170.113:8999/api.php/app/"
         },
-        {
-            "key": "bibidi",
-            "name": "🍭戮默┃哔哩原画4K",
-            "type": 3,
-            "api": "csp_XYbilibili",
-            "ext": "/ZE6FY7TFUnOGwjVo+fPIwgxecYxJjwUmk+mafWAimNHpdXsAOCblVclaJ1esmEy0oUqs/rslu9zoqUFmnyORw==",
-            "jar": "https://210.16.170.113:8889/down/Cunn0dOmpgDd.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "jar": "http://125.208.22.159:5436/uploads/tvbox/jar/guSA1suSAI7N.jar",
-            "key": "bili综合",
-            "name": "🍭戮默┃哔哩综合8K",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "cookie": "",
-                "json": "https://125.208.22.159:8889/down/D77CEHX3DXyb.json"
-            },
-            "timeout": 20
-        },
+        
         {
             "key": "lvdou5",
             "name": "🍭戮默┃MV歌曲",
@@ -209,15 +180,6 @@
    
     
 
-    {
-      "key": "csp_Guazi",
-      "name": "🍭戮默｜瓜子",
-      "type": 3,
-      "jar": "https://12134.kstore.space/vox.jar",
-      "api": "csp_Guazi",
-      "searchable": 1,
-      "changeable": 1
-    },
     
 {
       "key": "沙雕动画",
@@ -249,34 +211,7 @@
     },
 
 
-        {
-            "key": "💕腾讯弹幕",
-            "name": "🍭腾讯｜弹幕",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/腾讯弹幕.js"
-        },
-        {
-            "key": "💕优酷弹幕",
-            "name": "🍭优酷｜弹幕",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/优酷弹幕.js"
-        },
-        {
-            "key": "💕芒果弹幕",
-            "name": "🍭芒果｜弹幕",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/芒果弹幕.js"
-        },
-        {
-            "key": "💕爱奇艺弹幕",
-            "name": "🍭爱奇艺｜弹幕",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "ext": "http://zhuyun.shanhaiguanwu.top//uploads/tvbox/js/爱奇.js"
-        },
+
         {
             "key": "速播线路三",
             "name": "🍭速播|线路",
