@@ -251,20 +251,7 @@
             "changeable": 0,
             "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/优酷[官].js"
         },
-        {
-            "key": "📚┃儿童",
-            "name": "🍭儿童|启蒙",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/兔小贝.js"
-        },
+
         
 
     {
