@@ -180,24 +180,6 @@
     
 
     
-{
-      "key": "沙雕动画",
-      "name": "🍭沙雕动画┃戮默",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cookie": "https://sm.qukan.vip/tvbox/bili.txt",
-        "json": "https://sm.qukan.vip/tvbox/沙雕.js"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    
     {
       "key": "qqqys",
       "name": "🍭聚合丨4K",
@@ -331,17 +313,6 @@
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
     },
-
-     {
-                "name": "家庭4K",
-                "url": "http://abcdefghijklmnopqrstuvwxy.kevip.icu/api/index?parsesId=3&appid=10000&videoUrl=",
-                "ext": "ew0KICAgICJmbGFnIjogWw0KICAgICAgICAicXEiLA0KICAgICAgICAi6IW+6K6vIiwNCiAgICAgICAgInFpeWkiLA0KICAgICAgICAi54ix5aWH6Im6IiwNCiAgICAgICAgIuWlh+iJuiIsDQogICAgICAgICJ5b3VrdSIsDQogICAgICAgICLkvJjphbciLA0KICAgICAgICAibWd0diIsDQogICAgICAgICLoipLmnpwiLA0KICAgICAgICAibGV0diIsDQogICAgICAgICLkuZDop4YiLA0KICAgICAgICAicHB0diIsDQogICAgICAgICJQUFRWIiwNCiAgICAgICAgInNvaHUiLA0KICAgICAgICAiYmlsaWJpbGkiLA0KICAgICAgICAi5ZOU5ZOp5ZOU5ZOpIiwNCiAgICAgICAgIuWTlOWTqSINCiAgICBdLA0KICAgICJoZWFkZXIiOiB7DQogICAgICAgICJVc2VyLUFnZW50IjogIm9raHR0cC80LjEyLjAiDQogICAgICAgIH0NCiAgICAgIH0J",
-                "type": "1",
-                "status": "normal",
-                "type_text": "Type 1",
-                "status_text": "正常"
-            },
-
 
     {
       "name": "HD线路",
