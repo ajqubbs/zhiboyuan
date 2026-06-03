@@ -48,40 +48,7 @@
             "filterable": 1,
             "ext": "http://210.16.170.113:1777/api.php/app/"
         },
-   
-   {
-            "key": "天翼影",
-            "name": "🍭天翼4K┃戮默",
-            "type": 1,
-            "api": "http:\/\/7.qqqtv.top\/api.php\/provide\/vod\/",
-            "jar": "http:\/\/110.42.36.65:2345\/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "推荐",
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-    {
-      "name": "橘汁|秒播",
-      "key": "Juzhi",
-      "type": 3,
-      "jar": "http://110.42.35.214:1112/uploads/tvbox/jar/Juzhi_spider.jar",
-      "api": "csp_Juzhi",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "",
-        "site": "http://110.42.35.214:1112/uploads/tvbox/lib/az5.txt",
-        "version": "3.0.1.9"
-      }
-    },
+
             {
             "key": "移动",
             "name": "🍭戮默|免扫移动",
