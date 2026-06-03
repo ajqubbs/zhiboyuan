@@ -92,18 +92,7 @@
             "changeable": 1
         },
  
-        {
-            "key": "💕新腾讯",
-            "name": "🍭戮默|新腾4K",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/纯腾讯.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": ""
-        },
+        
         {
             "key": "墨韵💛视频",
             "name": "🍭戮默|新4k",
@@ -140,32 +129,6 @@
     },
 
 
-     {
-            "key": "csp_New6v",
-            "name": "🍭新6V┃戮默",
-            "type": 3,
-            "jar": "https:\/\/gitee.com\/zhujrong\/zy\/raw\/master\/jars\/xyq.jar",
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https:\/\/www.xb6v.com"
-        },
-
-   
-    
-
-    
-    {
-      "key": "qqqys",
-      "name": "🍭聚合丨4K",
-      "type": 4,
-      "api": "http://115.191.55.109:8080/video/qqqys?token=ca33ff3f40e73f22",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
 
 
 
