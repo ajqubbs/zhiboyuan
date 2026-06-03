@@ -7,74 +7,35 @@
   "sites": [ 
 
 
-        {
-            "key": "腾讯[cat.js]",
-            "name": "🍭戮默|腾云4K",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/js/腾讯[cat.js].js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-
-            {
-            "key": "极米4k",
-            "name": "🍭戮默┃原彩4K",
-            "type": 3,
-            "api": "http://110.42.41.52:8989/uploads/cangku/JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 1,
-            "changeable": 1,
-            "playerType": 3,
-            "ext": "https://210.16.170.113:8889/down/xeaGjhQ5QgKY.js"
-        },
-
-     {
-            "key": "hipy_js_百忙无果[官]",
-            "name": "🍭戮默┃臻彩4K",
-            "type": 3,
-            "api": "http://125.208.22.184:6695/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-            "playerType": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://125.208.22.184:6695/uploads/tvbox/js/百忙无果[官].js"
-        },
-        
-        {
-            "key": "极速",
-            "name": "🍭戮默┃极速2K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://210.16.170.113:3999/api.php/app/"
-        },
-        {
-            "key": "lvdou1",
-            "name": "🍭戮默┃自建4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://210.16.170.113:7000/api.php/app/"
-        },
-        {
-            "key": "lvdou",
-            "name": "🍭戮默┃高码4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://210.16.170.113:8999/api.php/app/"
-        },
+    {
+      "key": "果果",
+      "name": "果果内置💞[drpy_js]",
+      "type": 3,
+      "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://110.42.35.214:1112/uploads/tvbox/nzjx/mg.js"
+    },
+    {
+      "key": "腾腾",
+      "name": "腾腾内置💞[drpy_js]",
+      "type": 3,
+      "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://110.42.35.214:1112/uploads/tvbox/nzjx/tengxun.js"
+    },
+    {
+      "key": "华数",
+      "name": "华数[py]",
+      "type": 3,
+      "api": "http://110.42.35.214:1112/uploads/tvbox/py/huashu.py",
+      "changeable": 1
+    },
         
         {
             "key": "lvdou5",
@@ -105,7 +66,22 @@
                 "动漫"
             ]
         },
-
+    {
+      "name": "橘汁|秒播",
+      "key": "Juzhi",
+      "type": 3,
+      "jar": "http://110.42.35.214:1112/uploads/tvbox/jar/Juzhi_spider.jar",
+      "api": "csp_Juzhi",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "",
+        "site": "http://110.42.35.214:1112/uploads/tvbox/lib/az5.txt",
+        "version": "3.0.1.9"
+      }
+    },
             {
             "key": "移动",
             "name": "🍭戮默|免扫移动",
