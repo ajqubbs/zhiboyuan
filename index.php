@@ -1,7 +1,7 @@
 {"id":"1","title":"欢视助手","logo":"http://pic.9663.com/upload/2025-2/20252171348339087.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/欢视助手_1.0.0.apk","image1":"","image2":"","daxiao":"7.6MB","create_time":"260609"}
 
 
-{"id":"1","title":"新台奥直播[港台]","logo":"https://free-img.400040.xyz/4/2026/03/23/69c0e5cae3390.jpg,"desc1":"影视必备","desc":"","url":"https://gh-proxy.com/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/新台奥直播_7.7.7.7.apk","image1":"https://free-img.400040.xyz/4/2026/03/10/69aef1cfa9458.jpg","image2":"https://free-img.400040.xyz/4/2026/03/10/69aef23adb0e7.jpg","daxiao":"15.2MB","create_time":"260304 "}
+{"id":"1","title":"小草助手[野草]","logo":"https://shikeimg.it168.com/img/rjpic/20250710/j5npvjld5ff.png,"desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/小草助手TV版_2026.6.11.apk","image1":"","image2":"","daxiao":"7.2MB","create_time":"260611"}
 
 {"id":"2","title":"台視直播","logo":"https://free-img.400040.xyz/4/2026/04/27/69eeeca7cbd5c.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/台視直播_1.1.1.1.apk","image1":"https://free-img.400040.xyz/4/2026/03/24/69c212b3712ad.jpg","image2":"https://free-img.400040.xyz/4/2026/03/24/69c212ba6d12d.jpg","daxiao":"14.6MB","create_time":"260427"}
 
