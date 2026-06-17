@@ -9,7 +9,7 @@
 
     {
       "key": "果果",
-      "name": "果果内置💞[drpy_js]",
+      "name": "🍭果果",
       "type": 3,
       "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "腾腾",
-      "name": "腾腾内置💞[drpy_js]",
+      "name": "🍭腾腾",
       "type": 3,
       "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -158,33 +158,7 @@
             ]
         },
 
-        {
-            "key": "酷酷主线",
-            "name": "🍭酷酷┃收集",
-            "type": 1,
-            "jar": "https:\/\/tv.xiaofengtv.com\/tvbox\/jar\/custom_spider.jar",
-            "playUrl": "",
-            "api": "https:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/from\/rym3u8\/at\/json",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "香港剧",
-                "动画电影",
-                "喜剧片",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "韩国剧",
-                "欧美剧",
-                "记录片"
-            ]
-        },
+        
 
 
 {
