@@ -157,6 +157,7 @@
                 "海外动漫"
             ]
         },
+
         {
             "key": "酷酷主线",
             "name": "🍭酷酷┃收集",
@@ -184,6 +185,7 @@
                 "记录片"
             ]
         },
+
 
 {
             "key": "360zy",
@@ -228,10 +230,11 @@
                 "反转爽剧"
             ]
         },
+
         
     {
       "key": "aowo-星影NewNoxXy",
-      "name": "星星4K",
+      "name": "🍭星星4K",
       "type": 3,
       "api": "csp_NewNoxAmns",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
