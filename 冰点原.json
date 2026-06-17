@@ -7,48 +7,7 @@
   "sites": [ 
 
 
-    {
-      "key": "果果",
-      "name": "🍭果果",
-      "type": 3,
-      "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://110.42.35.214:1112/uploads/tvbox/nzjx/mg.js"
-    },
-    {
-      "key": "腾腾",
-      "name": "🍭腾腾",
-      "type": 3,
-      "api": "http://110.42.35.214:1112/uploads/tvbox/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://110.42.35.214:1112/uploads/tvbox/nzjx/tengxun.js"
-    },
-    {
-      "key": "华数",
-      "name": "华数[py]",
-      "type": 3,
-      "api": "http://110.42.35.214:1112/uploads/tvbox/py/huashu.py",
-      "changeable": 1
-    },
-        
-        {
-            "key": "lvdou5",
-            "name": "🍭戮默┃MV歌曲",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://210.16.170.113:1777/api.php/app/"
-        },
-
+    
             {
             "key": "移动",
             "name": "🍭戮默|免扫移动",
@@ -60,28 +19,7 @@
         },
  
         
-        {
-            "key": "墨韵💛视频",
-            "name": "🍭戮默|新4k",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txzl.js"
-        },
-        {
-            "key": "💕4K资源☯",
-            "name": "🍭戮默|4K资源",
-            "type": 3,
-            "api": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/drpy_js/txsp.js"
-        },
+        
 
             {
             "key": "如意",
