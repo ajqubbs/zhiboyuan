@@ -198,29 +198,9 @@
     {
       "name": "戮默4K解析",
       "type": 1,
-      "url": "http://47.108.190.232:2024/api/?key=zP8UI1nmnxHGvk4MPP&url="
+      "url": "http://103.236.72.179:5677/index.php?url="
     },
-    {
-
-      "name": "戮默普通",
-      "type": 1,
-      "url": "http://103.236.72.179:5677/index.php?url=",
-      "ext": {
-        "flag": [
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+    
 
 {
       "name": "江南4K解析1",
