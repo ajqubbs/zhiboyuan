@@ -5,7 +5,14 @@
   
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
-
+   {
+      "key": "qq",
+      "name": "🍭腾讯4K",
+      "playerType": 2,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线1.js"
+    },
 
 {
 
