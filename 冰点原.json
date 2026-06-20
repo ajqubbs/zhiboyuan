@@ -196,48 +196,27 @@
 
 
     {
-      "name": "戮默4K解析",
+      "name": "戮默4K",
       "type": 1,
       "url": "http://jiexi.fc8001.top/GswHCTkjDZybiWZy.php?url=https://v.qq.com/xxx.html"
     },
     
 
 {
-      "name": "江南4K解析1",
+      "name": "江南4K",
       "type": 1,
       "url": "https://rizzon.in/wp-content/json.php?url="
     },
 
     {
-      "name": "4K腾讯解析",
+      "name": "4K腾讯",
       "type": 1,
       "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
-    },
-
-    
-
-        {
-      
-    
-      "name": "官方",
-      "type": 1,
-      "url": "https://rizzon.in/wp-content/json.php?url=",
-      "ext": {
-        "flag": [
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     }
+
+    
+
+        
   ],
 
 
