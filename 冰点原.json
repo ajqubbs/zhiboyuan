@@ -225,7 +225,7 @@
 {
       "name": "江南4K解析1",
       "type": 1,
-      "url": "http://jiexi.fc8001.top/GswHCTkjDZybiWZy.php?url="
+      "url": "https://rizzon.in/wp-content/json.php?url="
     },
 
     {
@@ -234,21 +234,7 @@
       "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
     },
 
-    {
-      "name": "蓝光0",
-      "type": 1,
-      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
-    },
-    {
-      "name": "蓝光1",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
-    },
+    
 
         {
       
