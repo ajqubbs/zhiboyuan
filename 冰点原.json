@@ -316,11 +316,25 @@
     },
 
     {
-      "name": "4K腾讯",
+      "name": "巧技三",
       "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
+      "url": "https://rizzon.in/wp-content/json.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     }
-
     
 
 
