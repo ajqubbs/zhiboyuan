@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "云腾酷酷",
-      "name": "️🛡️主线1🛡️4k",
+      "name": "️👑云腾4k",
       "type": 3,
       "searchable": 1,
       "quicksearch": 1,
@@ -14,7 +14,7 @@
     },
     {
       "key": "芒果自家4k1",
-      "name": "️🛡主线2🛡️4k",
+      "name": "️👑芒果4k",
       "type": 3,
       "api": "http://45.125.44.89:8866/asdasd/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -26,7 +26,7 @@
     },
     {
       "key": "奇异自家4k1",
-      "name": "️🛡主线3🛡️4k",
+      "name": "👑奇异4k",
       "type": 3,
       "api": "http://45.125.44.89:8866/asdasd/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "优酷自家4k1",
-      "name": "️🛡主线4🛡️4k",
+      "name": "️👑优酷4k",
       "type": 3,
       "api": "http://45.125.44.89:8866/asdasd/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "B站自家4k1",
-      "name": "️🛡主线5🛡️4k",
+      "name": "️👑哔站4k",
       "type": 3,
       "api": "http://45.125.44.89:8866/asdasd/drpy_libs/drpy2.min.js",
       "searchable": 1,
