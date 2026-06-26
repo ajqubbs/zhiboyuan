@@ -5,49 +5,7 @@
   
   "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
   "sites": [ 
-   {
-      "key": "qq",
-      "name": "🍭腾讯4K",
-      "playerType": 2,
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/js/主线1.js"
-    },
-
-{
-
-
-   "key": "csp_mgtv",
-        "name": "🍭芒果视频┃4K",
-        "type": 3,
-        "api": "csp_mgtv",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    }, {
-        "key": "csp-youku",
-        "name": "🍭优酷视频┃4K",
-        "type": 3,
-        "api": "csp_youku",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-
-{
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🍭腾云驾雾",
-      "type": 3,
-"jar": "http://125.208.22.184:6019/uploads/tvbox/jar/xywp.jar;md5;9712e40fec46cc61b388897715f6f3db",
-      "api": "csp_Tencent",
-      "ext": "/ZE6FY7TFUnOGwjVo+fPIyHKqEMai+KWYLN9iLjSSSh4S0FKDSvRwwG8mr+TGYcPbokCBkpT7Mke6Tf4wJ41mg==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
+   
             {
             "key": "移动",
             "name": "🍭戮默|免扫移动",
