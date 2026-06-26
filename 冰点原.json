@@ -1,443 +1,147 @@
 {
-  "wallpaper": "https://tv.nxog.top/m/t/",
-  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-      "spider": "http://125.208.22.184:6019/uploads/tvbox/jar/spider2.jar;md5;83e07fbdf15ceb9d57201bfbfe5ad818",
-  
-  "warningText": "tv提示:\n📢戮默影视 \n📢长期维护", 
-  "sites": [ 
-   
-            {
-            "key": "移动",
-            "name": "🍭戮默|免扫移动",
-            "type": 3,
-            "jar": "http://zhuyun.shanhaiguanwu.top/uploads/tvbox/jar/yunY.jar",
-            "api": "csp_YDjisu",
-            "searchable": 1,
-            "changeable": 1
-        },
- 
-       
-
-            {
-            "key": "如意",
-            "name": "🍭如意┃收集",
-            "type": 1,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https:\/\/cj.rycjapi.com\/api.php\/provide\/vod\/from\/rym3u8\/at\/json",
-            "categories": [
-                "国产剧",
-                "国产动漫",
-                "大陆综艺",
-                "喜剧片",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "日韩动漫",
-                "欧美动",
-                "港台动漫",
-                "海外动",
-                "电影解说",
-                "体育",
-                "足球",
-                "篮球",
-                "网球",
-                "斯诺克",
-                "预告片",
-                "短剧",
-                "动画电影",
-                "电影片",
-                "连续剧",
-                "综艺片",
-                "动漫片",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫"
-            ]
-        },
-
-        
-
-
-{
-            "key": "360zy",
-            "name": "🍭飞龙2k|收集",
-            "type": 1,
-            "api": "https:\/\/360zy.com\/api.php\/provide\/vod?",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "古装片",
-                "悬疑片",
-                "犯罪片",
-                "灾难片",
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "欧美动漫",
-                "日韩动漫",
-                "现代都市",
-                "脑洞悬疑",
-                "年代穿越",
-                "古装仙侠",
-                "女频恋爱",
-                "成长逆袭",
-                "反转爽剧"
-            ]
-        },
-
-        
-     {
-      "key": "小米玩",
-      "name": "🍭免·网盘1",
-      "type": 3,
-     "api": "csp_ZC4K",
-     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxc1lXSnBNeU1qSTJ4aFlta3o="
-    },
-                            {
-      "key": "飞碟木偶",
-       "name": "🍭免·网盘2",
-      "type": 3,
-     "api": "csp_ZC4K",
-    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEWXZZWEJwTWk1d2FIQS9jMmwwWlQxdGRXOTFJeU1qYlhWdmRRPT0="
-    },
-              {
-      "key": "至臻木偶2",
-      "name": "🍭免·网盘3",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGIyZG5NaU1qSTIxdloyY3k="
-    },
-          {
-      "key": "至臻闪电",
-      "name": "🍭免·网盘4",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxemFHRnVaR2xoYmlNakkzTm9ZVzVrYVdGdQ=="
-    },
-          {
-      "key": "至臻阿里",
-      "name": "🍭免·网盘5",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGFXaGtjaU1qSTIxcGFHUnk="
-    },
-
-      {
-      "key": "小虎玩",
-      "name": "🍭免·网盘6",
-      "type": 3,
-        "api": "csp_ZC4K",
-           "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxb2RXSmhiaU1qSTJKMVltRnU="
-    },
-      {
-      "key": "哥哥玩",
-      "name": "🍭免·网盘7",
-      "type": 3,
-      "api": "csp_ZC4K",
-      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-      "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdmRXZGxJeU1qYjNWblpRPT0="
-    },
-
+  "spider": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "sites": [
     {
-      "key": "柠檬",
-      "name": "🍭柠檬蓝光",
+      "key": "无广告",
+      "name": "推荐┃专线┃🍊",
       "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-
-    {
-      "key": "天天",
-      "name": "🍭天天┃戮默",
-      "type": 3,
-      "api": "csp_TTian",
+      "api": "csp_AppYsV2",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+      "ext": "http://38.246.250.34:1555/api.php/app/"
+    },
+    {
+      "key": "潮流",
+      "name": "推荐┃主线┃（1）",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "蔬菜",
+      "name": "推荐┃备用┃（2）",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
     }
-
-
+  ],
+  "parses": [
+    {
+      "name": "官方线路（解析1）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=be3c375df25942b49cc17e7f25134104&url="
+    },
+    {
+      "name": "官方线路（解析2）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=ee2c7a0193bf47f992c00fbdbdd99f7d&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "SHNB",
+        ]
+      }
+    }
   ],
   "lives": [
     {
-      "name": "lJK模式",
+      "name": "直播",
       "type": 0,
-      "url": "https://154.64.254.52:9999/down/Tjik2tar4v8s.php",
       "playerType": 2,
-      "timeout": 10,
-      "epg": "",
-      "logo": ""
+      "url": "http://101.35.51.12:10001/zb.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
-
-  ],
-  "parses": [
+  ]
+}
+--------------------
+13:25:45.036 androidx.base.oOo0oOoOo0OoOoOo
+->convertResponse(00FB.java:1)
 {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        }
-
-
-        
-  ],
-
-
-
-  "flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
-  ],
-  "ijk": [
+  "spider": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "sites": [
     {
-      "group": "软解码（流畅版）",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "2"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek+nobuffer"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "8"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "300000000"
-        }
-      ]
+      "key": "无广告",
+      "name": "推荐┃专线┃🍊",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.246.250.34:1555/api.php/app/"
     },
     {
-      "group": "硬解码（流畅版）",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "2"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek+nobuffer"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "8"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "300000000"
-        }
-      ]
+      "key": "潮流",
+      "name": "推荐┃主线┃（1）",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "蔬菜",
+      "name": "推荐┃备用┃（2）",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
+    }
+  ],
+  "parses": [
+    {
+      "name": "官方线路（解析1）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=be3c375df25942b49cc17e7f25134104&url="
+    },
+    {
+      "name": "官方线路（解析2）",
+      "type": 1,
+      "url": "https://json.xophp.com/api/?key=ee2c7a0193bf47f992c00fbdbdd99f7d&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "SHNB",
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://101.35.51.12:10001/zb.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ]
 }
