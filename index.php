@@ -55,7 +55,6 @@
 
 {"id":"17","title":"至尊4K","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a225da58.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iOo3t3jrnp1e","image1":"","image2":"","daxiao":"58.8MB","create_time":"260304 "}
 
-{"id":"18","title":"Ciptv[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a82ac0a6.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/CIPTV.apk","image1":"","image2":"","daxiao":"18.1MB","create_time":"260304 "}
 
 
 
