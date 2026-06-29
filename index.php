@@ -1,3 +1,9 @@
+
+{"id":"2","title":"问鼎助手电视端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXCGf3tcexda","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
+
+
+{"id":"2","title":"问鼎助手手机端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iSKXP3t0y32h","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
+
 {"id":"1","title":"欢视助手","logo":"http://pic.9663.com/upload/2025-2/20252171348339087.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/欢视助手_1.0.0.apk","image1":"","image2":"","daxiao":"7.6MB","create_time":"260609"}
 
 
@@ -9,10 +15,6 @@
 
 {"id":"2","title":"戮默4K","logo":"https://free-img.400040.xyz/4/2026/03/24/69c2130843826.webp","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iCffX3leesfg","image1":"https://free-img.400040.xyz/4/2026/03/24/69c212b3712ad.jpg","image2":"https://free-img.400040.xyz/4/2026/03/24/69c212ba6d12d.jpg","daxiao":"58MB","create_time":"260324"}
 
-{"id":"2","title":"问鼎助手电视端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXCGf3tcexda","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
-
-
-{"id":"2","title":"问鼎助手手机端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iSKXP3t0y32h","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
 
 {"id":"3","title":"i优势在我[港台]","logo":"https://free-img.400040.xyz/4/2026/03/04/69a84a8349fa3.png","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/id6yG3jm65xe","image1":"","image2":"","daxiao":"18.2MB","create_time":"260305 "} 
 
