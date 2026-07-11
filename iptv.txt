@@ -708,7 +708,7 @@ NatGeo Wild
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
-💎测💝试💎_18,#genre#
+💎测💝试💎,#genre#
 华数星影,http://192.144.185.155:6000/rtp/225.1.8.254:4120$北京市电信
 华数动作影院,http://192.144.185.155:6000/rtp/225.1.8.252:4120$北京市电信
 华数喜剧影院,http://192.144.185.155:6000/rtp/225.1.8.251:4120$北京市电信
@@ -739,7 +739,7 @@ NatGeo Wild
 CCTV6环球经典,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV6流金岁月,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
-💎测🎬试💎_bai1,#genre#     
+💎测🎬试💎,#genre#     
 经典香港电影,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=8OvqV0&tk=zUr4K92Dl6kh
 抗战经典影片,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=h2xKKp&tk=zUr4K92Dl6kh
 新片放映厅,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=loB8kb&tk=zUr4K92Dl6kh
