@@ -708,7 +708,7 @@ NatGeo Wild
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
-💎测💝试💎_bai1,#genre#
+💎测💝试💎_18,#genre#
 华数星影,http://192.144.185.155:6000/rtp/225.1.8.254:4120$北京市电信
 华数动作影院,http://192.144.185.155:6000/rtp/225.1.8.252:4120$北京市电信
 华数喜剧影院,http://192.144.185.155:6000/rtp/225.1.8.251:4120$北京市电信
