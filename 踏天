@@ -1,5 +1,5 @@
 {
-  "spider": "http://8.148.229.212:802/4k踏天s2/xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
+  "spider": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/tatian.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
   
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
   "logo": "./1.gif",
