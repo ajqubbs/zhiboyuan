@@ -1,31 +1,15 @@
 {
   "spider": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/tatian.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
-  "lives": [
-    {
-
-      "name": "盛辰",
-      "type": 0,
-      "url": "http://wangziduoqing.com/yuan/zb.txt",
-      "ua": ""
-    },
-    {
-      "name": "钢熬",
-      "type": 0,
-      "url": "http://jk.html-5.me/i/49391.txt",
-      "ua": ""
-    }
-  ],
   "sites": [
     {
       "key": "新腾极4k",
       "name": "踏天中原4k-双煞🔥",
       "type": 3,
-      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "quicksearch": 1,
       "order_num": 0,
       "changeable": 0,
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
       "ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
     },
     {
@@ -35,7 +19,7 @@
       "api": "http://8.148.229.212:802/4k踏天s2/lib/云子.py",
       "jar": "http://8.148.229.212:802/4k踏天s2/jar/yunh0716.jar",
       "searchable": 1,
-      "quickSearch": 1,
+      "quicksearch": 1,
       "filterable": 0
     },
     {
@@ -44,7 +28,7 @@
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/山楂影视.py",
       "searchable": 1,
-      "quickSearch": 1,
+      "quicksearch": 1,
       "changeable": 1,
       "filterable": 1
     },
@@ -61,7 +45,7 @@
       "api": "csp_AppDrama",
       "jar": "http://8.148.229.212:802/4k踏天s2/jar/x01.jar",
       "searchable": 1,
-      "quickSearch": 1,
+      "quicksearch": 1,
       "filterable": 1,
       "ext": {
         "appName": "橘汁",
@@ -113,9 +97,23 @@
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
-      "quickSearch": 0
+      "quicksearch": 0
     }
   ],
   "parses": [],
-  "ijk": []
+  "ijk": [],
+  "lives": [
+    {
+      "name": "盛辰",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "ua": ""
+    },
+    {
+      "name": "钢熬",
+      "type": 0,
+      "url": "http://jk.html-5.me/i/49391.txt",
+      "ua": ""
+    }
+  ]
 }
