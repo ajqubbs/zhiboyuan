@@ -1,10 +1,10 @@
 
-{"id":"2","title":"问鼎助手电视端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXCGf3tcexda","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
+{"id":"1","title":"问鼎助手电视端","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/iXCGf3tcexda","image1":"","image2":"","daxiao":"36MB","create_time":"260630 "}
 
 
 {"id":"2","title":"踏天4K","logo":"https://i.imgs.ovh/2026/06/29/372d7c9804dec704e103e33aa7aec337.jpg","desc1":"影视必备","desc":"","url":"https://lz.qaiu.top/parser?url=https://jxfd.lanzoub.com/i7Eaz4665cva","image1":"","image2":"","daxiao":"42MB","create_time":"260630 "}
 
-{"id":"1","title":"欢视助手","logo":"http://pic.9663.com/upload/2025-2/20252171348339087.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/欢视助手_1.0.0.apk","image1":"","image2":"","daxiao":"7.6MB","create_time":"260609"}
+{"id":"3","title":"欢视助手","logo":"http://pic.9663.com/upload/2025-2/20252171348339087.png","desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/欢视助手_1.0.0.apk","image1":"","image2":"","daxiao":"7.6MB","create_time":"260609"}
 
 
 {"id":"1","title":"小草助手","logo":"https://shikeimg.it168.com/img/rjpic/20250710/j5npvjld5ff.png,"desc1":"影视必备","desc":"","url":"https://wget.la/https://raw.githubusercontent.com/ajqubbs/androidtv/main/小草助手TV版_2026.6.11.apk","image1":"","image2":"","daxiao":"7.2MB","create_time":"260611"}
